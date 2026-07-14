@@ -1,0 +1,228 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Amarjeet Singh — AI and Machine Learning Engineer">
+
+  <!-- ============================================================ -->
+  <!-- DEFINITIONS                                                   -->
+  <!-- ============================================================ -->
+  <defs>
+
+    <!-- Base canvas fill: warm-neutral near-black -->
+    <linearGradient id="bgBase" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0B0D"/>
+      <stop offset="100%" stop-color="#0A0A0C"/>
+    </linearGradient>
+
+    <!-- Ambient glow — larger, softer, lower opacity than before -->
+    <radialGradient id="ambientGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#6366F1" stop-opacity="0.065"/>
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Aurora: even larger, extremely diffuse, drifts slowly -->
+    <radialGradient id="auroraGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#6366F1" stop-opacity="0.05"/>
+      <stop offset="60%" stop-color="#6366F1" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Core: bright center fading to violet edge -->
+    <radialGradient id="coreGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#FFFFFF"/>
+      <stop offset="35%"  stop-color="#D6D9FF"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Inner shimmer: tighter, brighter, independent pulse -->
+    <radialGradient id="shimmerGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#FFFFFF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Outer bloom around core -->
+    <radialGradient id="coreBloom" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#6366F1" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Connecting light threads: fade to nothing before reaching text -->
+    <linearGradient id="threadFade" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%"   stop-color="#8C93B8" stop-opacity="0.20"/>
+      <stop offset="70%"  stop-color="#8C93B8" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#8C93B8" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Soft blur used only for the aurora, native SVG filter (no external CSS) -->
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+
+    <!-- Near-invisible anti-banding wash -->
+    <linearGradient id="hairlineWash" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#FFFFFF" stop-opacity="0.012"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ============================================================ -->
+  <!-- LAYER 0 — BACKGROUND VOID                                     -->
+  <!-- ============================================================ -->
+  <rect x="0" y="0" width="1600" height="420" fill="url(#bgBase)"/>
+  <rect x="0" y="0" width="1600" height="420" fill="url(#hairlineWash)"/>
+
+  <!-- ============================================================ -->
+  <!-- LAYER 1 — AURORA (soft, slow drifting depth behind orb)       -->
+  <!-- ============================================================ -->
+  <g filter="url(#softBlur)">
+    <ellipse cx="1390" cy="210" rx="360" ry="300" fill="url(#auroraGlow)">
+      <animateTransform attributeName="transform" type="translate"
+                         values="0,0; 18,-12; -10,10; 0,0"
+                         dur="26s" calcMode="spline"
+                         keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"
+                         repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- ============================================================ -->
+  <!-- LAYER 2 — AMBIENT GLOW (right side, behind centerpiece)       -->
+  <!-- ============================================================ -->
+  <ellipse cx="1390" cy="210" rx="560" ry="480" fill="url(#ambientGlow)"/>
+
+  <!-- ============================================================ -->
+  <!-- LAYER 3 — CONNECTING LIGHT THREADS (orb ↔ name, never touching)-->
+  <!-- ============================================================ -->
+  <g stroke="url(#threadFade)" fill="none" stroke-linecap="round">
+    <path d="M 1290,150 C 1080,110 900,120 760,150" stroke-width="1" opacity="0.8"/>
+    <path d="M 1300,230 C 1090,250 920,230 780,210" stroke-width="1" opacity="0.6"/>
+    <path d="M 1280,290 C 1060,300 900,280 770,255" stroke-width="1" opacity="0.4"/>
+  </g>
+
+  <!-- ============================================================ -->
+  <!-- LAYER 4 — TEXT CONTENT (left zone)                            -->
+  <!-- ============================================================ -->
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+
+    <!-- Main title -->
+    <text x="96" y="196"
+          font-size="68"
+          font-weight="600"
+          letter-spacing="-1"
+          fill="#F5F5F7">AMARJEET SINGH</text>
+
+    <!-- Subtitle — brightened ~13% for readability, still secondary -->
+    <text x="97" y="234"
+          font-size="20"
+          font-weight="500"
+          letter-spacing="2.4"
+          fill="#AEB6C6">AI &amp; MACHINE LEARNING ENGINEER</text>
+
+    <!-- Rotating specialization line — pure opacity crossfade, 24s loop -->
+    <g font-size="17" font-weight="400" fill="#9AA1C4">
+      <text x="97" y="278" opacity="0">
+        Building Intelligent Applications
+        <animate attributeName="opacity"
+                 dur="24s" repeatCount="indefinite" begin="0s"
+                 calcMode="linear"
+                 keyTimes="0;0.03125;0.135417;0.166667;1"
+                 values="0;1;1;0;0"/>
+      </text>
+      <text x="97" y="278" opacity="0">
+        Computer Vision
+        <animate attributeName="opacity"
+                 dur="24s" repeatCount="indefinite" begin="0s"
+                 calcMode="linear"
+                 keyTimes="0;0.166667;0.197917;0.302084;0.333333;1"
+                 values="0;0;1;1;0;0"/>
+      </text>
+      <text x="97" y="278" opacity="0">
+        Generative AI
+        <animate attributeName="opacity"
+                 dur="24s" repeatCount="indefinite" begin="0s"
+                 calcMode="linear"
+                 keyTimes="0;0.333333;0.364583;0.46875;0.5;1"
+                 values="0;0;1;1;0;0"/>
+      </text>
+      <text x="97" y="278" opacity="0">
+        Large Language Models
+        <animate attributeName="opacity"
+                 dur="24s" repeatCount="indefinite" begin="0s"
+                 calcMode="linear"
+                 keyTimes="0;0.5;0.53125;0.635417;0.666667;1"
+                 values="0;0;1;1;0;0"/>
+      </text>
+      <text x="97" y="278" opacity="0">
+        AI Agents
+        <animate attributeName="opacity"
+                 dur="24s" repeatCount="indefinite" begin="0s"
+                 calcMode="linear"
+                 keyTimes="0;0.666667;0.697917;0.802083;0.833333;1"
+                 values="0;0;1;1;0;0"/>
+      </text>
+      <text x="97" y="278" opacity="0">
+        Deep Learning
+        <animate attributeName="opacity"
+                 dur="24s" repeatCount="indefinite" begin="0s"
+                 calcMode="linear"
+                 keyTimes="0;0.833333;0.864583;0.96875;1"
+                 values="0;0;1;1;0"/>
+      </text>
+    </g>
+  </g>
+
+  <!-- ============================================================ -->
+  <!-- LAYER 5 — CENTERPIECE: "The Single Point of Light"            -->
+  <!-- ============================================================ -->
+  <g transform="translate(1390,210)">
+
+    <!-- Outer bloom, static -->
+    <circle cx="0" cy="0" r="112" fill="url(#coreBloom)"/>
+
+    <!-- Two quiet arcs on the orb itself, static -->
+    <path d="M -70,-40 Q -20,-95 55,-60"
+          fill="none" stroke="#8C93B8" stroke-width="1"
+          stroke-linecap="round" opacity="0.22"/>
+    <path d="M -60,50 Q -5,90 65,45"
+          fill="none" stroke="#8C93B8" stroke-width="1"
+          stroke-linecap="round" opacity="0.16"/>
+
+    <!-- Ripple: an imperceptible expanding ring, ~9s cycle -->
+    <circle cx="0" cy="0" r="35" fill="none" stroke="#B4B8E8" stroke-width="1" opacity="0">
+      <animate attributeName="r" values="35;72" dur="9s"
+               calcMode="spline" keySplines="0.3 0 0.6 1" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.22;0" dur="9s"
+               calcMode="spline" keySplines="0.3 0 0.6 1;0.3 0 0.6 1" repeatCount="indefinite"/>
+      <animate attributeName="stroke-width" values="1.2;0.4" dur="9s"
+               calcMode="spline" keySplines="0.3 0 0.6 1" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Core: the primary breathing light, 6s cycle -->
+    <circle cx="0" cy="0" r="35" fill="url(#coreGradient)" opacity="0.92">
+      <animate attributeName="r"
+               values="34;37;34" dur="6s"
+               calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+               repeatCount="indefinite"/>
+      <animate attributeName="opacity"
+               values="0.85;1;0.85" dur="6s"
+               calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Inner shimmer: tighter, brighter, offset timing from core -->
+    <circle cx="-4" cy="-5" r="12" fill="url(#shimmerGradient)" opacity="0.3">
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="5s"
+               calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+               repeatCount="indefinite"/>
+      <animate attributeName="r" values="10;14;10" dur="5s"
+               calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+               repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ============================================================ -->
+  <!-- LAYER 6 — SIGNATURE (tiny, muted, lower-right)                -->
+  <!-- ============================================================ -->
+  <text x="1504" y="398" text-anchor="end"
+        font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="11" font-weight="400" letter-spacing="0.5"
+        fill="#5A5F78">SAmarjeet05 · 2026</text>
+
+</svg>
