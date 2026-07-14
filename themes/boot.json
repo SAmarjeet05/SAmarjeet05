@@ -13,6 +13,11 @@
       "Computer Vision"
     ]
   },
+  "stats": {
+    "github": "default",
+    "streak": "default",
+    "graph": "snake-boot.svg"
+  },
   "quotes": [
     "Every breakthrough begins with a fresh start.",
     "Initialization complete. A new cycle of learning begins."
