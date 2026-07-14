@@ -3,7 +3,8 @@
   "stats": {
     "github": "default",
     "streak": "default",
-    "graph": "github-contribution-grid-snake.svg"
+    "graph": "github-contribution-grid-snake.svg",
+    "activity": "github"
   },
   "typing": {
     "speed": 80,

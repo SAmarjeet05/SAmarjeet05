@@ -16,7 +16,8 @@
   "stats": {
     "github": "default",
     "streak": "default",
-    "graph": "snake-boot.svg"
+    "graph": "snake-boot.svg",
+    "activity": "github"
   },
   "quotes": [
     "Every breakthrough begins with a fresh start.",

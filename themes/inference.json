@@ -17,7 +17,8 @@
   "stats": {
     "github": "default",
     "streak": "default",
-    "graph": "snake-inference.svg"
+    "graph": "snake-inference.svg",
+    "activity": "github-compact"
   },
   "quotes": [
     "Turning models into products.",
