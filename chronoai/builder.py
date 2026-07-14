@@ -105,6 +105,31 @@ class READMEBuilder:
             alt_text="Snake animation",
             width="100%",
         )
+        # Build picture elements for stats (light/dark theme-aware)
+        github_stats_picture = self._build_picture(
+            light_src=stats_urls["github_stats_light"],
+            dark_src=stats_urls["github_stats_dark"],
+            alt_text="GitHub Stats",
+            width="48%",
+        )
+        streak_picture = self._build_picture(
+            light_src=stats_urls["streak_light"],
+            dark_src=stats_urls["streak_dark"],
+            alt_text="GitHub Streak",
+            width="48%",
+        )
+        languages_picture = self._build_picture(
+            light_src=stats_urls["languages_light"],
+            dark_src=stats_urls["languages_dark"],
+            alt_text="Top Languages",
+            width="48%",
+        )
+        graph_picture = self._build_picture(
+            light_src=stats_urls["graph_light"],
+            dark_src=stats_urls["graph_dark"],
+            alt_text="GitHub Activity Graph",
+            width="48%",
+        )
         
         # Load template
         if not os.path.exists(self.template_path):
@@ -119,10 +144,10 @@ class READMEBuilder:
             "{{DIVIDER_PATH}}": divider_path,
             "{{MODE_NAME}}": mode_name,
             "{{TYPING_URL}}": typing_url,
-            "{{GITHUB_STATS}}": stats_urls["github_stats"],
-            "{{STREAK}}": stats_urls["streak"],
-            "{{LANGUAGES}}": stats_urls["languages"],
-            "{{GRAPH}}": stats_urls["graph"],
+            "{{GITHUB_STATS}}": github_stats_picture,
+            "{{STREAK}}": streak_picture,
+            "{{LANGUAGES}}": languages_picture,
+            "{{GRAPH}}": graph_picture,
             "{{SNAKE_PICTURE}}": snake_picture,
             "{{FOOTER_QUOTE}}": quote
         }

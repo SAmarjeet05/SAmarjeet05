@@ -174,6 +174,8 @@ Built with **React**, **FastAPI**, **PostgreSQL**, **Supabase**, **TypeScript**,
 <a href="https://github.com/SAmarjeet05/otaku-sync-tracker">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=otaku-sync-tracker&theme=transparent&hide_border=true"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/SAmarjeet05/otaku-sync-tracker"><strong>→ View Repository</strong></a>
 </p>
 
 <img src="{{DIVIDER_PATH}}" width="100%" alt="" />
@@ -188,6 +190,8 @@ Powered by **PyTorch**, **GeoPandas**, **Flask**, **Next.js**, **Docker**, and *
 <a href="https://github.com/SAmarjeet05/Samadhan--AI-Powered-Disaster-Detection-and-Response-System">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Samadhan--AI-Powered-Disaster-Detection-and-Response-System&theme=transparent&hide_border=true"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/SAmarjeet05/Samadhan--AI-Powered-Disaster-Detection-and-Response-System"><strong>→ View Repository</strong></a>
 </p>
 
 <img src="{{DIVIDER_PATH}}" width="100%" alt="" />
@@ -202,6 +206,8 @@ Built using **FastAPI**, **React**, **Scikit-Learn**, **Groq API**, **Leaflet**,
 <a href="https://github.com/SAmarjeet05/ClimaSense">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=ClimaSense&theme=transparent&hide_border=true"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/SAmarjeet05/ClimaSense"><strong>→ View Repository</strong></a>
 </p>
 
 <img src="{{DIVIDER_PATH}}" width="100%" alt="" />
@@ -216,6 +222,8 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 <a href="https://github.com/SAmarjeet05/Nirvana">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Nirvana&theme=transparent&hide_border=true"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/SAmarjeet05/Nirvana"><strong>→ View Repository</strong></a>
 </p>
 
 <img src="{{DIVIDER_PATH}}" width="100%" alt="" />
@@ -224,15 +232,15 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 <p align="center">
 
-<img width="48%" src="{{GITHUB_STATS}}"/>
-<img width="48%" src="{{STREAK}}"/>
+{{GITHUB_STATS}}
+{{STREAK}}
 
 </p>
 
 <p align="center">
 
-<img width="48%" src="{{LANGUAGES}}"/>
-<img width="48%" src="{{GRAPH}}"/>
+{{LANGUAGES}}
+{{GRAPH}}
 
 </p>
 
