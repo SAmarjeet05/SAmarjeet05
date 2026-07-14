@@ -93,7 +93,7 @@ I'm a final-year **B.Tech Computer Science (AIML)** student who enjoys turning i
 
 <div align="center">
 
-✨ *Every iteration improves intelligence.* ✨
+✨ *Optimal execution requires constant alignment.* ✨
 
 <img src="https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/snake-optimization.svg" width="100%" />
 

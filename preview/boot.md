@@ -93,7 +93,7 @@ I'm a final-year **B.Tech Computer Science (AIML)** student who enjoys turning i
 
 <div align="center">
 
-✨ *Every breakthrough begins with a fresh start.* ✨
+✨ *Initialization complete. A new cycle of learning begins.* ✨
 
 <img src="https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/snake-boot.svg" width="100%" />
 

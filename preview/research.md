@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=b48ead&center=true&vCenter=true&width=600&lines=Deep+Learning;AI+Agents;Research+Never+Sleeps;Exploring+Large+Language+Models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=b48ead&center=true&vCenter=true&width=600&lines=AI+Agents;Exploring+Large+Language+Models;Research+Never+Sleeps;Deep+Learning)](https://git.io/typing-svg)
 
 </div>
 
@@ -93,7 +93,7 @@ I'm a final-year **B.Tech Computer Science (AIML)** student who enjoys turning i
 
 <div align="center">
 
-✨ *Hypothesizing, experimenting, expanding the bounds.* ✨
+✨ *Curiosity doesn't have office hours.* ✨
 
 <img src="https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/snake-research.svg" width="100%" />
 

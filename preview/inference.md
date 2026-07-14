@@ -93,7 +93,7 @@ I'm a final-year **B.Tech Computer Science (AIML)** student who enjoys turning i
 
 <div align="center">
 
-✨ *Turning models into products.* ✨
+✨ *Running inference on real-world challenges.* ✨
 
 <img src="https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/snake-inference.svg" width="100%" />
 
