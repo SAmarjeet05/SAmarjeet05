@@ -15,7 +15,7 @@
 
 ### AI & Machine Learning Engineer • AI Application Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=5E81AC&center=true&vCenter=true&width=750&lines=Computer+Vision;Building+Intelligent+Applications;Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=5E81AC&center=true&vCenter=true&width=750&lines=Building+Intelligent+Applications;Machine+Learning;Computer+Vision)](https://git.io/typing-svg)
 
 </div>
 
@@ -174,6 +174,8 @@ Built with **React**, **FastAPI**, **PostgreSQL**, **Supabase**, **TypeScript**,
 <a href="https://github.com/SAmarjeet05/otaku-sync-tracker">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=otaku-sync-tracker&theme=transparent&hide_border=true"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/SAmarjeet05/otaku-sync-tracker"><strong>→ View Repository</strong></a>
 </p>
 
 <img src="assets/boot/divider.svg" width="100%" alt="" />
@@ -188,6 +190,8 @@ Powered by **PyTorch**, **GeoPandas**, **Flask**, **Next.js**, **Docker**, and *
 <a href="https://github.com/SAmarjeet05/Samadhan--AI-Powered-Disaster-Detection-and-Response-System">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Samadhan--AI-Powered-Disaster-Detection-and-Response-System&theme=transparent&hide_border=true"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/SAmarjeet05/Samadhan--AI-Powered-Disaster-Detection-and-Response-System"><strong>→ View Repository</strong></a>
 </p>
 
 <img src="assets/boot/divider.svg" width="100%" alt="" />
@@ -202,6 +206,8 @@ Built using **FastAPI**, **React**, **Scikit-Learn**, **Groq API**, **Leaflet**,
 <a href="https://github.com/SAmarjeet05/ClimaSense">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=ClimaSense&theme=transparent&hide_border=true"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/SAmarjeet05/ClimaSense"><strong>→ View Repository</strong></a>
 </p>
 
 <img src="assets/boot/divider.svg" width="100%" alt="" />
@@ -216,6 +222,8 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 <a href="https://github.com/SAmarjeet05/Nirvana">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Nirvana&theme=transparent&hide_border=true"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/SAmarjeet05/Nirvana"><strong>→ View Repository</strong></a>
 </p>
 
 <img src="assets/boot/divider.svg" width="100%" alt="" />
@@ -224,15 +232,15 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=default&hide_border=true&rank_icon=github"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=default&hide_border=true"/>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=dark&hide_border=true&rank_icon=github' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github' /><img src='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github' alt='GitHub Stats' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=dark&hide_border=true' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=light&hide_border=true' /><img src='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=light&hide_border=true' alt='GitHub Streak' width='48%' /></picture>
 
 </p>
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=default&hide_border=true"/>
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=github&hide_border=true"/>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=dark&hide_border=true' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true' /><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true' alt='Top Languages' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=dark&hide_border=true' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true' /><img src='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true' alt='GitHub Activity Graph' width='48%' /></picture>
 
 </p>
 
@@ -256,7 +264,7 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 <p align="center">
 
-<i>✨ Initialization complete. A new cycle of learning begins. ✨</i>
+<i>✨ Every breakthrough begins with a fresh start. ✨</i>
 
 </p>
 
@@ -279,5 +287,5 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 Generated by ChronoAI
 Theme: Boot
 Theme Version: 2.0
-Generated: 2026-07-15 00:29:28 IST
+Generated: 2026-07-15 00:41:37 IST
 -->
