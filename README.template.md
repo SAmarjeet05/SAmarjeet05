@@ -170,13 +170,13 @@ A full-stack anime tracking platform with a browser extension that automatically
 
 Built with **React**, **FastAPI**, **PostgreSQL**, **Supabase**, **TypeScript**, and the **AniList GraphQL API** to deliver real-time synchronization, personalized recommendations, analytics, and seamless tracking.
 
-<p align="left">
+<div align="center">
 <a href="https://github.com/SAmarjeet05/otaku-sync-tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=otaku-sync-tracker&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=otaku-sync-tracker&theme=transparent&hide_border=true" alt="Otaku Sync Tracker repository"/>
 </a>
-&nbsp;&nbsp;
+<br/>
 <a href="https://github.com/SAmarjeet05/otaku-sync-tracker"><strong>→ View Repository</strong></a>
-</p>
+</div>
 
 <img src="{{DIVIDER_PATH}}" width="100%" alt="" />
 
@@ -186,13 +186,13 @@ An AI-powered disaster response platform capable of flood segmentation, earthqua
 
 Powered by **PyTorch**, **GeoPandas**, **Flask**, **Next.js**, **Docker**, and **PostgreSQL**.
 
-<p align="left">
+<div align="center">
 <a href="https://github.com/SAmarjeet05/Samadhan--AI-Powered-Disaster-Detection-and-Response-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Samadhan--AI-Powered-Disaster-Detection-and-Response-System&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Samadhan--AI-Powered-Disaster-Detection-and-Response-System&theme=transparent&hide_border=true" alt="Samadhan repository"/>
 </a>
-&nbsp;&nbsp;
+<br/>
 <a href="https://github.com/SAmarjeet05/Samadhan--AI-Powered-Disaster-Detection-and-Response-System"><strong>→ View Repository</strong></a>
-</p>
+</div>
 
 <img src="{{DIVIDER_PATH}}" width="100%" alt="" />
 
@@ -202,13 +202,13 @@ A climate intelligence platform providing weather forecasting, anomaly detection
 
 Built using **FastAPI**, **React**, **Scikit-Learn**, **Groq API**, **Leaflet**, and **SQLite**.
 
-<p align="left">
+<div align="center">
 <a href="https://github.com/SAmarjeet05/ClimaSense">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=ClimaSense&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=ClimaSense&theme=transparent&hide_border=true" alt="ClimaSense repository"/>
 </a>
-&nbsp;&nbsp;
+<br/>
 <a href="https://github.com/SAmarjeet05/ClimaSense"><strong>→ View Repository</strong></a>
-</p>
+</div>
 
 <img src="{{DIVIDER_PATH}}" width="100%" alt="" />
 
@@ -218,31 +218,27 @@ An AI-powered grievance platform supporting text, image, and voice complaints wi
 
 Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **ElevenLabs**, **Raspberry Pi**, and **Hailo-8L**.
 
-<p align="left">
+<div align="center">
 <a href="https://github.com/SAmarjeet05/Nirvana">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Nirvana&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Nirvana&theme=transparent&hide_border=true" alt="Nirvana repository"/>
 </a>
-&nbsp;&nbsp;
+<br/>
 <a href="https://github.com/SAmarjeet05/Nirvana"><strong>→ View Repository</strong></a>
-</p>
+</div>
 
 <img src="{{DIVIDER_PATH}}" width="100%" alt="" />
 
 # 📊 GitHub Analytics
 
-<p align="center">
-
+<div align="center">
 {{GITHUB_STATS}}
 {{STREAK}}
+</div>
 
-</p>
-
-<p align="center">
-
+<div align="center">
 {{LANGUAGES}}
 {{GRAPH}}
-
-</p>
+</div>
 
 <img src="{{DIVIDER_PATH}}" width="100%" alt="" />
 
