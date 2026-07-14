@@ -1,10 +1,14 @@
 {
   "extends": "base",
   "mode": "Midnight Atmosphere",
-  "status_color": "#b48ead",
-  "banner": "assets/research/banner.svg",
-  "status_svg": "assets/research/status.svg",
-  "divider_path": "assets/research/divider.svg",
+  "assets": {
+    "banner": "assets/research/banner.svg",
+    "divider": "assets/research/divider.svg",
+    "status": {
+      "light": "assets/research/status-light.svg",
+      "dark": "assets/research/status-dark.svg"
+    }
+  },
   "typing": {
     "color": "b48ead",
     "lines": [
@@ -14,14 +18,28 @@
       "Deep Learning"
     ]
   },
-  "stats": {
-    "github": "tokyonight",
-    "streak": "tokyonight",
-    "graph": "snake-research.svg"
+  "footer": {
+    "text": "Always learning, always building."
   },
   "quotes": [
     "Curiosity doesn't have office hours.",
     "Searching the latent space for answers.",
     "Hypothesizing, experimenting, expanding the bounds."
-  ]
+  ],
+  "stats": {
+    "light": {
+      "bg_color": "FCFBFE",
+      "title_color": "2E1A47",
+      "text_color": "5B5061",
+      "icon_color": "A855F7",
+      "border_color": "E8DDF5"
+    },
+    "dark": {
+      "bg_color": "09060F",
+      "title_color": "F3F0FF",
+      "text_color": "B8AEC7",
+      "icon_color": "C084FC",
+      "border_color": "3A2953"
+    }
+  }
 }

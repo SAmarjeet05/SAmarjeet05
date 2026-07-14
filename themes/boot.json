@@ -1,26 +1,43 @@
 {
   "extends": "base",
   "mode": "Sunrise Atmosphere",
-  "status_color": "#5e81ac",
-  "banner": "assets/boot/banner.svg",
-  "status_svg": "assets/boot/status.svg",
-  "divider_path": "assets/boot/divider.svg",
+  "assets": {
+    "banner": "assets/boot/banner.svg",
+    "divider": "assets/boot/divider.svg",
+    "status": {
+      "light": "assets/boot/status-light.svg",
+      "dark": "assets/boot/status-dark.svg"
+    }
+  },
   "typing": {
-    "color": "5e81ac",
+    "color": "5E81AC",
     "lines": [
       "Building Intelligent Applications",
       "Machine Learning",
       "Computer Vision"
     ]
   },
-  "stats": {
-    "github": "default",
-    "streak": "default",
-    "graph": "snake-boot.svg",
-    "activity": "github"
+  "footer": {
+    "text": "Always learning, always building."
   },
   "quotes": [
     "Every breakthrough begins with a fresh start.",
     "Initialization complete. A new cycle of learning begins."
-  ]
+  ],
+  "stats": {
+    "light": {
+      "bg_color": "FFFFFF",
+      "title_color": "1E293B",
+      "text_color": "475569",
+      "icon_color": "5E81AC",
+      "border_color": "E2ECF4"
+    },
+    "dark": {
+      "bg_color": "0D1117",
+      "title_color": "F8FAFC",
+      "text_color": "CBD5E1",
+      "icon_color": "8FB3D4",
+      "border_color": "2B3542"
+    }
+  }
 }

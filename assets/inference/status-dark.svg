@@ -1,0 +1,29 @@
+<svg width="220" height="30" viewBox="0 0 220 30" fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <radialGradient id="inferOrb">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="40%" stop-color="#86F5FF"/>
+      <stop offset="100%" stop-color="#00D2FF"/>
+    </radialGradient>
+  </defs>
+
+  <text x="10" y="19" fill="#AEB6C6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="1.5">
+AI STATUS
+  </text>
+
+  <circle cx="100" cy="15" r="4.5" fill="url(#inferOrb)">
+    <animate attributeName="r" values="4.5;5.4;4.5" dur="1.3s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="100" cy="15" r="7.5" stroke="#00E5FF" stroke-width="1.5" fill="none">
+    <animate attributeName="r" values="7.5;11.5;7.5" dur="1.3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.45;0;0.45" dur="1.3s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="115" y="19" fill="#F5F5F7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="600">
+Inference
+  </text>
+
+</svg>

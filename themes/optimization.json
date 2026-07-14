@@ -1,10 +1,14 @@
 {
   "extends": "base",
   "mode": "Golden Hour Atmosphere",
-  "status_color": "#d08770",
-  "banner": "assets/optimization/banner.svg",
-  "status_svg": "assets/optimization/status.svg",
-  "divider_path": "assets/optimization/divider.svg",
+  "assets": {
+    "banner": "assets/optimization/banner.svg",
+    "divider": "assets/optimization/divider.svg",
+    "status": {
+      "light": "assets/optimization/status-light.svg",
+      "dark": "assets/optimization/status-dark.svg"
+    }
+  },
   "typing": {
     "color": "d08770",
     "lines": [
@@ -14,14 +18,28 @@
       "Continuous Learning"
     ]
   },
-  "stats": {
-    "github": "github_dark",
-    "streak": "github_dark",
-    "graph": "snake-optimization.svg"
+  "footer": {
+    "text": "Always learning, always building."
   },
   "quotes": [
     "Every iteration improves intelligence.",
     "Refining parameters, reducing loss, scaling output.",
     "Optimal execution requires constant alignment."
-  ]
+  ],
+  "stats": {
+    "light": {
+      "bg_color": "FFFDF9",
+      "title_color": "3B2F2F",
+      "text_color": "6B5A50",
+      "icon_color": "D08770",
+      "border_color": "F3DFC9"
+    },
+    "dark": {
+      "bg_color": "17120F",
+      "title_color": "F9F5F0",
+      "text_color": "D8C8B8",
+      "icon_color": "F4A261",
+      "border_color": "5A3C2E"
+    }
+  }
 }

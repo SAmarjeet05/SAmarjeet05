@@ -1,10 +1,18 @@
 <svg width="1000" height="2" viewBox="0 0 1000 2" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#E0F7FA" stop-opacity="0"/>
-    <stop offset="15%" stop-color="#00F2FE" stop-opacity="0.8"/>
-    <stop offset="50%" stop-color="#00D2FF" stop-opacity="1"/>
-    <stop offset="85%" stop-color="#00F2FE" stop-opacity="0.8"/>
-    <stop offset="100%" stop-color="#E0F7FA" stop-opacity="0"/>
-  </linearGradient>
-  <rect width="1000" height="1.5" fill="url(#divGrad)"/>
+  <defs>
+    <linearGradient id="inferGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DDFBFF" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#6EEAFF" stop-opacity="0.65"/>
+      <stop offset="50%" stop-color="#00D9FF" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#6EEAFF" stop-opacity="0.65"/>
+      <stop offset="100%" stop-color="#DDFBFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="2" fill="url(#inferGrad)">
+    <animate attributeName="opacity"
+      values="0.9;1;0.9"
+      dur="7s"
+      repeatCount="indefinite"/>
+  </rect>
 </svg>

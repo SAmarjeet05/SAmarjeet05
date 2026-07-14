@@ -1,10 +1,14 @@
 {
   "extends": "base",
   "mode": "Daylight Atmosphere",
-  "status_color": "#00f2fe",
-  "banner": "assets/inference/banner.svg",
-  "status_svg": "assets/inference/status.svg",
-  "divider_path": "assets/inference/divider.svg",
+  "assets": {
+    "banner": "assets/inference/banner.svg",
+    "divider": "assets/inference/divider.svg",
+    "status": {
+      "light": "assets/inference/status-light.svg",
+      "dark": "assets/inference/status-dark.svg"
+    }
+  },
   "typing": {
     "color": "00f2fe",
     "lines": [
@@ -14,15 +18,28 @@
       "Transforming Ideas into AI Products"
     ]
   },
-  "stats": {
-    "github": "default",
-    "streak": "default",
-    "graph": "snake-inference.svg",
-    "activity": "github-compact"
+  "footer": {
+    "text": "Always learning, always building."
   },
   "quotes": [
     "Turning models into products.",
     "Running inference on real-world challenges.",
     "Executing decisions in real time."
-  ]
+  ],
+  "stats": {
+    "light": {
+      "bg_color": "FFFFFF",
+      "title_color": "0F172A",
+      "text_color": "334155",
+      "icon_color": "00D2FF",
+      "border_color": "CDEFFA"
+    },
+    "dark": {
+      "bg_color": "0D1117",
+      "title_color": "F8FAFC",
+      "text_color": "CBD5E1",
+      "icon_color": "00F2FE",
+      "border_color": "18455A"
+    }
+  }
 }

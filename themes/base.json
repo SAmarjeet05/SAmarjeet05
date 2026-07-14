@@ -1,16 +1,52 @@
 {
-  "version": "1.0",
-  "stats": {
-    "github": "default",
-    "streak": "default",
-    "graph": "github-contribution-grid-snake.svg",
-    "activity": "github"
+  "version": "2.0",
+
+  "mode": "",
+
+  "assets": {
+    "banner": "",
+    "divider": "",
+    "status": {
+      "light": "",
+      "dark": ""
+    }
   },
+
   "typing": {
-    "speed": 80,
+    "color": "808080",
     "lines": []
   },
+
+  "footer": {
+    "text": "Always learning, always building."
+  },
+
   "quotes": [],
-  "footer": "Always learning, always building.",
-  "divider_path": "assets/boot/divider.svg"
+
+  "stats": {
+    "light": {
+      "bg_color": "FFFFFF",
+      "title_color": "333333",
+      "text_color": "666666",
+      "icon_color": "808080",
+      "border_color": "DDDDDD"
+    },
+    "dark": {
+      "bg_color": "1a1a1a",
+      "title_color": "FFFFFF",
+      "text_color": "CCCCCC",
+      "icon_color": "999999",
+      "border_color": "333333"
+    }
+  },
+
+  "graph": {
+    "light": "github",
+    "dark": "github-dark"
+  },
+
+  "snake": {
+    "light": "https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/github-contribution-grid-snake.svg",
+    "dark": "https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/github-contribution-grid-snake-dark.svg"
+  }
 }

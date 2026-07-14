@@ -1,0 +1,1 @@
+"""ChronoAI application configuration."""

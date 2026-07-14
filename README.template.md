@@ -9,13 +9,13 @@
 <br/>
 <br/>
 
-<img src="{{STATUS_PATH}}" alt="AI System Status" />
+{{STATUS_PICTURE}}
 
 # Hi there, I'm Amarjeet Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
 
 ### AI & Machine Learning Engineer • AI Application Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color={{TYPING_COLOR}}&center=true&vCenter=true&width=750&lines={{TYPING_LINES}})](https://git.io/typing-svg)
+[![Typing SVG]({{TYPING_URL}})](https://git.io/typing-svg)
 
 </div>
 
@@ -37,6 +37,8 @@
 </div>
 
 <img src="{{DIVIDER_PATH}}" width="100%" alt="" />
+
+{{PLUGINS}}
 
 # 🚀 About Me
 
@@ -222,15 +224,15 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme={{STATS_THEME}}&hide_border=true&rank_icon=github"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme={{STREAK_THEME}}&hide_border=true"/>
+<img width="48%" src="{{GITHUB_STATS}}"/>
+<img width="48%" src="{{STREAK}}"/>
 
 </p>
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme={{STATS_THEME}}&hide_border=true"/>
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme={{ACTIVITY_THEME}}&hide_border=true"/>
+<img width="48%" src="{{LANGUAGES}}"/>
+<img width="48%" src="{{GRAPH}}"/>
 
 </p>
 
@@ -255,6 +257,14 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 <p align="center">
 
 <i>✨ {{FOOTER_QUOTE}} ✨</i>
+
+</p>
+
+<img src="{{DIVIDER_PATH}}" width="100%" alt="" />
+
+<p align="center">
+
+{{SNAKE_PICTURE}}
 
 </p>
 
