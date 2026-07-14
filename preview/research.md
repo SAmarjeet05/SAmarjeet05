@@ -9,17 +9,17 @@
 <br/>
 <br/>
 
-<picture><source media='(prefers-color-scheme: dark)' srcset='assets/research/status-dark.svg' /><source media='(prefers-color-scheme: light)' srcset='assets/research/status-light.svg' /><img src='assets/research/status-light.svg' alt='AI System Status' width='100%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='assets/research/status-dark.svg' /><source media='(prefers-color-scheme: light)' srcset='assets/research/status-light.svg' /><img src='assets/research/status-light.svg' alt='AI System Status' width='280px' style='display: block; margin: 0 auto;' /></picture>
 
 # Hi there, I'm Amarjeet Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
 
 ### AI & Machine Learning Engineer • AI Application Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=b48ead&center=true&vCenter=true&width=750&lines=Research+Never+Sleeps;AI+Agents;Deep+Learning;Exploring+Large+Language+Models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=b48ead&center=true&vCenter=true&width=750&lines=Research+Never+Sleeps;Exploring+Large+Language+Models;Deep+Learning;AI+Agents)](https://git.io/typing-svg)
 
 </div>
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 </div>
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 
 
@@ -54,7 +54,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 - ⚡ Backend Engineering for AI Applications
 - 🌍 Building End-to-End AI Products
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 ### 🎓 Education
 
@@ -62,7 +62,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 
 📍 I.T.S Engineering College
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 ### ⚙️ Currently Exploring
 
@@ -71,7 +71,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 - Computer Vision
 - Deep Learning
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 ### 🤝 Open To
 
@@ -80,7 +80,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 - Open Source Contributions
 - Collaborating on AI & Generative AI Projects
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 # 🧠 Tech Stack
 
@@ -90,7 +90,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,mysql"/>
 </p>
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 ## AI & Machine Learning
 
@@ -102,7 +102,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 
 TensorFlow • PyTorch • Scikit-learn • Keras • OpenCV • YOLOv8 • LangChain • NLTK • Ollama • Gemini API • Groq API
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 ## Backend Development
 
@@ -112,7 +112,7 @@ TensorFlow • PyTorch • Scikit-learn • Keras • OpenCV • YOLOv8 • Lang
 
 FastAPI • Flask • REST APIs • WebSockets
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 ## Frontend Development
 
@@ -122,7 +122,7 @@ FastAPI • Flask • REST APIs • WebSockets
 
 React • Next.js • TypeScript • Tailwind CSS • ShadCN UI • Leaflet
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 ## Databases
 
@@ -130,7 +130,7 @@ React • Next.js • TypeScript • Tailwind CSS • ShadCN UI • Leaflet
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase"/>
 </p>
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 ## Developer Tools
 
@@ -140,7 +140,7 @@ React • Next.js • TypeScript • Tailwind CSS • ShadCN UI • Leaflet
 
 Jupyter Notebook • Google Colab
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 ## Deployment
 
@@ -148,13 +148,13 @@ Jupyter Notebook • Google Colab
 <img src="https://skillicons.dev/icons?i=vercel,render"/>
 </p>
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 ## Edge AI
 
 Raspberry Pi • Hailo-8L
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 # 🔥 Featured Projects
 
@@ -162,7 +162,7 @@ Raspberry Pi • Hailo-8L
 Building intelligent applications that combine AI, Machine Learning, and modern software engineering to solve real-world problems.
 </p>
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 ## 🌸 Otaku Sync Tracker
 
@@ -176,7 +176,7 @@ Built with **React**, **FastAPI**, **PostgreSQL**, **Supabase**, **TypeScript**,
 </a>
 </p>
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 ## 🌍 Samadhan — AI Disaster Response System
 
@@ -190,7 +190,7 @@ Powered by **PyTorch**, **GeoPandas**, **Flask**, **Next.js**, **Docker**, and *
 </a>
 </p>
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 ## 🌦 ClimaSense
 
@@ -204,7 +204,7 @@ Built using **FastAPI**, **React**, **Scikit-Learn**, **Groq API**, **Leaflet**,
 </a>
 </p>
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 ## 🏛 Nirvana — AI Grievance Redressal System
 
@@ -218,7 +218,7 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 </a>
 </p>
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 # 📊 GitHub Analytics
 
@@ -236,7 +236,7 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 </p>
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 # 📫 Connect With Me
 
@@ -252,15 +252,15 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 </p>
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 <p align="center">
 
-<i>✨ Curiosity doesn't have office hours. ✨</i>
+<i>✨ Searching the latent space for answers. ✨</i>
 
 </p>
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 <p align="center">
 
@@ -268,7 +268,7 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 </p>
 
-<img src="" width="100%" alt="" />
+<img src="assets/research/divider.svg" width="100%" alt="" />
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/{{SNAKE_SVG}}" width="100%" />
@@ -279,5 +279,5 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 Generated by ChronoAI
 Theme: Research
 Theme Version: 2.0
-Generated: 2026-07-15 00:19:46 IST
+Generated: 2026-07-15 00:29:28 IST
 -->
