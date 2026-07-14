@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "stats": {
+    "github": "default",
+    "streak": "default",
+    "graph": "github-contribution-grid-snake.svg"
+  },
+  "typing": {
+    "speed": 80,
+    "lines": []
+  },
+  "quotes": [],
+  "footer": "Always learning, always building.",
+  "divider_path": "assets/boot/divider.svg"
+}

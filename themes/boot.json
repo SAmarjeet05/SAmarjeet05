@@ -1,0 +1,20 @@
+{
+  "extends": "base",
+  "mode": "Sunrise Atmosphere",
+  "status_color": "#5e81ac",
+  "banner": "assets/boot/banner.svg",
+  "status_svg": "assets/boot/status.svg",
+  "divider_path": "assets/boot/divider.svg",
+  "typing": {
+    "color": "5e81ac",
+    "lines": [
+      "Building Intelligent Applications",
+      "Machine Learning",
+      "Computer Vision"
+    ]
+  },
+  "quotes": [
+    "Every breakthrough begins with a fresh start.",
+    "Initialization complete. A new cycle of learning begins."
+  ]
+}

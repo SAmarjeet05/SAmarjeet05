@@ -1,0 +1,27 @@
+{
+  "extends": "base",
+  "mode": "Midnight Atmosphere",
+  "status_color": "#b48ead",
+  "banner": "assets/research/banner.svg",
+  "status_svg": "assets/research/status.svg",
+  "divider_path": "assets/research/divider.svg",
+  "typing": {
+    "color": "b48ead",
+    "lines": [
+      "Research Never Sleeps",
+      "Exploring Large Language Models",
+      "AI Agents",
+      "Deep Learning"
+    ]
+  },
+  "stats": {
+    "github": "tokyonight",
+    "streak": "tokyonight",
+    "graph": "github-contribution-grid-snake-dark.svg"
+  },
+  "quotes": [
+    "Curiosity doesn't have office hours.",
+    "Searching the latent space for answers.",
+    "Hypothesizing, experimenting, expanding the bounds."
+  ]
+}

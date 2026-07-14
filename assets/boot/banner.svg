@@ -1,0 +1,144 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Amarjeet Singh — AI and Machine Learning Engineer">
+  <defs>
+    <!-- Base canvas fill: light morning mist sky -->
+    <linearGradient id="bgBase" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EBF3F9"/>
+      <stop offset="100%" stop-color="#D9E5F0"/>
+    </linearGradient>
+
+    <!-- Ambient glow — soft morning sunlight reflection from left -->
+    <radialGradient id="ambientGlow" cx="20%" cy="50%" r="60%">
+      <stop offset="0%"  stop-color="#FFFFFF" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Aurora: faint pale blue mist -->
+    <radialGradient id="auroraGlow" cx="80%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#B8D0EB" stop-opacity="0.25"/>
+      <stop offset="60%" stop-color="#B8D0EB" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#B8D0EB" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Core: soft blue morning light center -->
+    <radialGradient id="coreGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#FFFFFF"/>
+      <stop offset="40%"  stop-color="#B4CBE8"/>
+      <stop offset="100%" stop-color="#5E81AC" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Inner shimmer -->
+    <radialGradient id="shimmerGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Outer bloom around core -->
+    <radialGradient id="coreBloom" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#5E81AC" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#5E81AC" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Connecting light threads — very soft slate blue -->
+    <linearGradient id="threadFade" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%"   stop-color="#5E81AC" stop-opacity="0.12"/>
+      <stop offset="70%"  stop-color="#5E81AC" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="#5E81AC" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Soft blur -->
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+
+    <!-- Near-invisible wash -->
+    <linearGradient id="hairlineWash" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#FFFFFF" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1600" height="420" fill="url(#bgBase)"/>
+  <rect x="0" y="0" width="1600" height="420" fill="url(#hairlineWash)"/>
+
+  <!-- Left Side Sunlight Glow -->
+  <ellipse cx="200" cy="210" rx="600" ry="400" fill="url(#ambientGlow)"/>
+
+  <!-- Aurora / Mist on the right -->
+  <g filter="url(#softBlur)">
+    <ellipse cx="1390" cy="210" rx="360" ry="300" fill="url(#auroraGlow)">
+      <animateTransform attributeName="transform" type="translate"
+                         values="0,0; 12,-8; -8,8; 0,0"
+                         dur="28s" calcMode="spline"
+                         keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"
+                         repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- Threads -->
+  <g stroke="url(#threadFade)" fill="none" stroke-linecap="round">
+    <path d="M 1290,150 C 1080,110 900,120 760,150" stroke-width="0.75" opacity="0.6"/>
+    <path d="M 1300,230 C 1090,250 920,230 780,210" stroke-width="0.75" opacity="0.4"/>
+    <path d="M 1280,290 C 1060,300 900,280 770,255" stroke-width="0.75" opacity="0.3"/>
+  </g>
+
+  <!-- Text -->
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <!-- Main title -->
+    <text x="96" y="196" font-size="68" font-weight="600" letter-spacing="-1" fill="#1E293B">AMARJEET SINGH</text>
+    <!-- Subtitle -->
+    <text x="97" y="234" font-size="20" font-weight="500" letter-spacing="2.4" fill="#64748B">AI &amp; MACHINE LEARNING ENGINEER</text>
+
+    <!-- Rotating specialization line — 3 items, 15s loop -->
+    <g font-size="17" font-weight="400" fill="#475569">
+      <text x="97" y="278" opacity="0">
+        Building Intelligent Applications
+        <animate attributeName="opacity" dur="15s" repeatCount="indefinite" begin="0s"
+                 calcMode="linear" keyTimes="0;0.05;0.28;0.33;1" values="0;1;1;0;0"/>
+      </text>
+      <text x="97" y="278" opacity="0">
+        Machine Learning
+        <animate attributeName="opacity" dur="15s" repeatCount="indefinite" begin="0s"
+                 calcMode="linear" keyTimes="0;0.33;0.38;0.61;0.66;1" values="0;0;1;1;0;0"/>
+      </text>
+      <text x="97" y="278" opacity="0">
+        Computer Vision
+        <animate attributeName="opacity" dur="15s" repeatCount="indefinite" begin="0s"
+                 calcMode="linear" keyTimes="0;0.66;0.71;0.94;0.99;1" values="0;0;1;1;0;0"/>
+      </text>
+    </g>
+  </g>
+
+  <!-- Centerpiece: Orb -->
+  <g transform="translate(1390,210)">
+    <!-- Bloom -->
+    <circle cx="0" cy="0" r="112" fill="url(#coreBloom)"/>
+
+    <!-- Orb Arcs -->
+    <path d="M -70,-40 Q -20,-95 55,-60" fill="none" stroke="#5E81AC" stroke-width="1" stroke-linecap="round" opacity="0.18"/>
+    <path d="M -60,50 Q -5,90 65,45" fill="none" stroke="#5E81AC" stroke-width="1" stroke-linecap="round" opacity="0.12"/>
+
+    <!-- Ripple -->
+    <circle cx="0" cy="0" r="35" fill="none" stroke="#5E81AC" stroke-width="1" opacity="0">
+      <animate attributeName="r" values="35;72" dur="9s" calcMode="spline" keySplines="0.3 0 0.6 1" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.15;0" dur="9s" calcMode="spline" keySplines="0.3 0 0.6 1;0.3 0 0.6 1" repeatCount="indefinite"/>
+      <animate attributeName="stroke-width" values="1.0;0.3" dur="9s" calcMode="spline" keySplines="0.3 0 0.6 1" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Core -->
+    <circle cx="0" cy="0" r="35" fill="url(#coreGradient)" opacity="0.95">
+      <animate attributeName="r" values="34;36;34" dur="6s" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="6s" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Inner shimmer -->
+    <circle cx="-4" cy="-5" r="12" fill="url(#shimmerGradient)" opacity="0.25">
+      <animate attributeName="opacity" values="0.15;0.4;0.15" dur="5s" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" repeatCount="indefinite"/>
+      <animate attributeName="r" values="10;13;10" dur="5s" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Signature -->
+  <text x="1504" y="398" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="400" letter-spacing="0.5" fill="#94A3B8">SAmarjeet05 · Sunrise Atmosphere</text>
+</svg>

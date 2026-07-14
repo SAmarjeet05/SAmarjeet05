@@ -1,0 +1,22 @@
+{
+  "extends": "base",
+  "mode": "Daylight Atmosphere",
+  "status_color": "#00f2fe",
+  "banner": "assets/inference/banner.svg",
+  "status_svg": "assets/inference/status.svg",
+  "divider_path": "assets/inference/divider.svg",
+  "typing": {
+    "color": "00f2fe",
+    "lines": [
+      "Designing AI Applications",
+      "Solving Real-World Problems",
+      "End-to-End AI Products",
+      "Transforming Ideas into AI Products"
+    ]
+  },
+  "quotes": [
+    "Turning models into products.",
+    "Running inference on real-world challenges.",
+    "Executing decisions in real time."
+  ]
+}

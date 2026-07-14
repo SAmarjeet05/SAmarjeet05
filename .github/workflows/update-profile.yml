@@ -1,0 +1,71 @@
+name: ChronoAI Profile Update
+
+on:
+  schedule:
+    # Runs at the start of each mode in IST (UTC + 5:30):
+    # - 06:00 IST -> 00:30 UTC
+    # - 12:00 IST -> 06:30 UTC
+    # - 18:00 IST -> 12:30 UTC
+    # - 22:00 IST -> 16:30 UTC
+    - cron: "30 0,6,12,16 * * *"
+
+  workflow_dispatch:
+    inputs:
+      use_cache:
+        description: 'Use cache copy instead of fresh compile'
+        required: true
+        type: boolean
+        default: true
+
+  push:
+    branches:
+      - main
+    paths:
+      - "README.template.md"
+      - "generate_readme.py"
+      - "chronoai/**"
+      - "themes/**"
+      - "assets/**"
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Compile and Update Cache (on Push)
+        if: github.event_name == 'push'
+        run: |
+          python generate_readme.py --build-cache
+          python generate_readme.py
+
+      - name: Copy Cached README (on Schedule / Manual)
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.use_cache == 'true')
+        run: |
+          python generate_readme.py --use-cache
+
+      - name: Fresh Generation (on Manual with use_cache=false)
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.use_cache == 'false'
+        run: |
+          python generate_readme.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md generated/README.md cache/ preview/
+          if git diff --staged --quiet; then
+            echo "No changes detected, skipping commit."
+          else
+            git commit -m "chore: ChronoAI automatic profile update [event: ${{ github.event_name }}]"
+            git push
+          fi

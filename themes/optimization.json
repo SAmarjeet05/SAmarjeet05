@@ -1,0 +1,27 @@
+{
+  "extends": "base",
+  "mode": "Golden Hour Atmosphere",
+  "status_color": "#d08770",
+  "banner": "assets/optimization/banner.svg",
+  "status_svg": "assets/optimization/status.svg",
+  "divider_path": "assets/optimization/divider.svg",
+  "typing": {
+    "color": "d08770",
+    "lines": [
+      "Optimizing Intelligence",
+      "Optimizing AI Systems",
+      "Scaling Intelligence",
+      "Continuous Learning"
+    ]
+  },
+  "stats": {
+    "github": "github_dark",
+    "streak": "github_dark",
+    "graph": "github-contribution-grid-snake-dark.svg"
+  },
+  "quotes": [
+    "Every iteration improves intelligence.",
+    "Refining parameters, reducing loss, scaling output.",
+    "Optimal execution requires constant alignment."
+  ]
+}
