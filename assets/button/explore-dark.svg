@@ -1,0 +1,73 @@
+<svg width="245" height="44" viewBox="0 0 245 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect x="1" y="1" width="243" height="42" rx="21"
+        fill="#0D1117"
+        stroke="#30363D"/>
+
+  <!-- Animated Status Orb -->
+  <circle cx="26" cy="22" r="4.5" fill="#8FB3D4">
+    <animate
+      attributeName="r"
+      values="4.5;5.2;4.5"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="26" cy="22" r="7"
+          stroke="#8FB3D4"
+          stroke-width="1.4"
+          fill="none">
+    <animate
+      attributeName="r"
+      values="7;10;7"
+      dur="2s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="stroke-opacity"
+      values="0.35;0;0.35"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Label -->
+  <text
+    x="42"
+    y="27"
+    fill="#F8FAFC"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="600"
+    letter-spacing="0.3">
+
+    Explore Repository
+
+  </text>
+
+  <!-- Animated Arrow -->
+  <g>
+
+    <path
+      d="M212 16L222 16L222 26"
+      stroke="#94A3B8"
+      stroke-width="1.8"
+      stroke-linecap="round"
+      stroke-linejoin="round"/>
+
+    <path
+      d="M222 16L211 27"
+      stroke="#94A3B8"
+      stroke-width="1.8"
+      stroke-linecap="round"/>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0;2 0;0 0"
+      dur="2.6s"
+      repeatCount="indefinite"/>
+
+  </g>
+
+</svg>

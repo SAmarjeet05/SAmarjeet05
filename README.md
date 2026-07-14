@@ -15,7 +15,7 @@
 
 ### AI & Machine Learning Engineer • AI Application Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=b48ead&center=true&vCenter=true&width=750&lines=Exploring+Large+Language+Models;AI+Agents;Deep+Learning;Research+Never+Sleeps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=b48ead&center=true&vCenter=true&width=750&lines=AI+Agents;Deep+Learning;Research+Never+Sleeps;Exploring+Large+Language+Models)](https://git.io/typing-svg)
 
 </div>
 
@@ -170,13 +170,19 @@ A full-stack anime tracking platform with a browser extension that automatically
 
 Built with **React**, **FastAPI**, **PostgreSQL**, **Supabase**, **TypeScript**, and the **AniList GraphQL API** to deliver real-time synchronization, personalized recommendations, analytics, and seamless tracking.
 
-<p align="left">
+<div align="center">
 <a href="https://github.com/SAmarjeet05/otaku-sync-tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=otaku-sync-tracker&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=otaku-sync-tracker&theme=transparent&hide_border=true" alt="Otaku Sync Tracker repository"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/SAmarjeet05/otaku-sync-tracker"><strong>→ View Repository</strong></a>
-</p>
+<br/>
+<a href="https://github.com/SAmarjeet05/otaku-sync-tracker" style="display:inline-block; margin-top:0.75rem;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/button/explore-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/button/explore-light.svg" />
+<img src="assets/button/explore-light.svg" alt="Explore Otaku Sync Tracker repository" />
+</picture>
+</a>
+</div>
 
 <img src="assets/research/divider.svg" width="100%" alt="" />
 
@@ -186,13 +192,19 @@ An AI-powered disaster response platform capable of flood segmentation, earthqua
 
 Powered by **PyTorch**, **GeoPandas**, **Flask**, **Next.js**, **Docker**, and **PostgreSQL**.
 
-<p align="left">
+<div align="center">
 <a href="https://github.com/SAmarjeet05/Samadhan--AI-Powered-Disaster-Detection-and-Response-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Samadhan--AI-Powered-Disaster-Detection-and-Response-System&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Samadhan--AI-Powered-Disaster-Detection-and-Response-System&theme=transparent&hide_border=true" alt="Samadhan repository"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/SAmarjeet05/Samadhan--AI-Powered-Disaster-Detection-and-Response-System"><strong>→ View Repository</strong></a>
-</p>
+<br/>
+<a href="https://github.com/SAmarjeet05/Samadhan--AI-Powered-Disaster-Detection-and-Response-System" style="display:inline-block; margin-top:0.75rem;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/button/explore-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/button/explore-light.svg" />
+<img src="assets/button/explore-light.svg" alt="Explore Samadhan repository" />
+</picture>
+</a>
+</div>
 
 <img src="assets/research/divider.svg" width="100%" alt="" />
 
@@ -202,13 +214,19 @@ A climate intelligence platform providing weather forecasting, anomaly detection
 
 Built using **FastAPI**, **React**, **Scikit-Learn**, **Groq API**, **Leaflet**, and **SQLite**.
 
-<p align="left">
+<div align="center">
 <a href="https://github.com/SAmarjeet05/ClimaSense">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=ClimaSense&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=ClimaSense&theme=transparent&hide_border=true" alt="ClimaSense repository"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/SAmarjeet05/ClimaSense"><strong>→ View Repository</strong></a>
-</p>
+<br/>
+<a href="https://github.com/SAmarjeet05/ClimaSense" style="display:inline-block; margin-top:0.75rem;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/button/explore-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/button/explore-light.svg" />
+<img src="assets/button/explore-light.svg" alt="Explore ClimaSense repository" />
+</picture>
+</a>
+</div>
 
 <img src="assets/research/divider.svg" width="100%" alt="" />
 
@@ -218,31 +236,33 @@ An AI-powered grievance platform supporting text, image, and voice complaints wi
 
 Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **ElevenLabs**, **Raspberry Pi**, and **Hailo-8L**.
 
-<p align="left">
+<div align="center">
 <a href="https://github.com/SAmarjeet05/Nirvana">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Nirvana&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Nirvana&theme=transparent&hide_border=true" alt="Nirvana repository"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/SAmarjeet05/Nirvana"><strong>→ View Repository</strong></a>
-</p>
+<br/>
+<a href="https://github.com/SAmarjeet05/Nirvana" style="display:inline-block; margin-top:0.75rem;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/button/explore-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/button/explore-light.svg" />
+<img src="assets/button/explore-light.svg" alt="Explore Nirvana repository" />
+</picture>
+</a>
+</div>
 
 <img src="assets/research/divider.svg" width="100%" alt="" />
 
 # 📊 GitHub Analytics
 
-<p align="center">
-
+<div align="center">
 <picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=dark&hide_border=true&rank_icon=github' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github' /><img src='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github' alt='GitHub Stats' width='48%' /></picture>
 <picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=dark&hide_border=true' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=light&hide_border=true' /><img src='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=light&hide_border=true' alt='GitHub Streak' width='48%' /></picture>
+</div>
 
-</p>
-
-<p align="center">
-
+<div align="center">
 <picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=dark&hide_border=true' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true' /><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true' alt='Top Languages' width='48%' /></picture>
 <picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=dark&hide_border=true' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true' /><img src='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true' alt='GitHub Activity Graph' width='48%' /></picture>
-
-</p>
+</div>
 
 <img src="assets/research/divider.svg" width="100%" alt="" />
 
@@ -264,7 +284,7 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 <p align="center">
 
-<i>✨ Searching the latent space for answers. ✨</i>
+<i>✨ Hypothesizing, experimenting, expanding the bounds. ✨</i>
 
 </p>
 
@@ -287,5 +307,5 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 Generated by ChronoAI
 Theme: Research
 Theme Version: 2.0
-Generated: 2026-07-15 00:41:37 IST
+Generated: 2026-07-15 01:24:45 IST
 -->

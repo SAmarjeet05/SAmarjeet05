@@ -175,7 +175,13 @@ Built with **React**, **FastAPI**, **PostgreSQL**, **Supabase**, **TypeScript**,
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=otaku-sync-tracker&theme=transparent&hide_border=true" alt="Otaku Sync Tracker repository"/>
 </a>
 <br/>
-<a href="https://github.com/SAmarjeet05/otaku-sync-tracker"><strong>→ View Repository</strong></a>
+<a href="https://github.com/SAmarjeet05/otaku-sync-tracker" style="display:inline-block; margin-top:0.75rem;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/button/explore-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/button/explore-light.svg" />
+<img src="assets/button/explore-light.svg" alt="Explore Otaku Sync Tracker repository" />
+</picture>
+</a>
 </div>
 
 <img src="{{DIVIDER_PATH}}" width="100%" alt="" />
@@ -191,7 +197,13 @@ Powered by **PyTorch**, **GeoPandas**, **Flask**, **Next.js**, **Docker**, and *
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Samadhan--AI-Powered-Disaster-Detection-and-Response-System&theme=transparent&hide_border=true" alt="Samadhan repository"/>
 </a>
 <br/>
-<a href="https://github.com/SAmarjeet05/Samadhan--AI-Powered-Disaster-Detection-and-Response-System"><strong>→ View Repository</strong></a>
+<a href="https://github.com/SAmarjeet05/Samadhan--AI-Powered-Disaster-Detection-and-Response-System" style="display:inline-block; margin-top:0.75rem;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/button/explore-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/button/explore-light.svg" />
+<img src="assets/button/explore-light.svg" alt="Explore Samadhan repository" />
+</picture>
+</a>
 </div>
 
 <img src="{{DIVIDER_PATH}}" width="100%" alt="" />
@@ -207,7 +219,13 @@ Built using **FastAPI**, **React**, **Scikit-Learn**, **Groq API**, **Leaflet**,
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=ClimaSense&theme=transparent&hide_border=true" alt="ClimaSense repository"/>
 </a>
 <br/>
-<a href="https://github.com/SAmarjeet05/ClimaSense"><strong>→ View Repository</strong></a>
+<a href="https://github.com/SAmarjeet05/ClimaSense" style="display:inline-block; margin-top:0.75rem;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/button/explore-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/button/explore-light.svg" />
+<img src="assets/button/explore-light.svg" alt="Explore ClimaSense repository" />
+</picture>
+</a>
 </div>
 
 <img src="{{DIVIDER_PATH}}" width="100%" alt="" />
@@ -223,7 +241,13 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Nirvana&theme=transparent&hide_border=true" alt="Nirvana repository"/>
 </a>
 <br/>
-<a href="https://github.com/SAmarjeet05/Nirvana"><strong>→ View Repository</strong></a>
+<a href="https://github.com/SAmarjeet05/Nirvana" style="display:inline-block; margin-top:0.75rem;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/button/explore-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/button/explore-light.svg" />
+<img src="assets/button/explore-light.svg" alt="Explore Nirvana repository" />
+</picture>
+</a>
 </div>
 
 <img src="{{DIVIDER_PATH}}" width="100%" alt="" />
