@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Amarjeet%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CS%20(AIML)%20%7C%20Aspiring%20ML%20%2F%20Software%20Engineer&descAlignY=55&descSize=18" width="100%">
 
 # Hi there, I'm Amarjeet Singh 👋
 
