@@ -96,7 +96,8 @@ class READMEBuilder:
             light_src=theme.status_light,
             dark_src=theme.status_dark,
             alt_text="AI System Status",
-            width="100%",
+            width="280px",
+            centered=True,
         )
         snake_picture = self._build_picture(
             light_src=theme.snake_light,
@@ -189,13 +190,15 @@ class READMEBuilder:
         shutil.copy(source_path, self.config.generated_readme_path)
         print(f"Successfully copied to {self.config.generated_readme_path}")
 
-    def _build_picture(self, light_src, dark_src, alt_text, width="100%"):
+    def _build_picture(self, light_src, dark_src, alt_text, width="100%", centered=False):
         light_src = light_src or dark_src
         dark_src = dark_src or light_src
+        style = "display: block; margin: 0 auto;" if centered else ""
+        style_attr = f" style='{style}'" if style else ""
         return (
             "<picture>"
             f"<source media='(prefers-color-scheme: dark)' srcset='{dark_src}' />"
             f"<source media='(prefers-color-scheme: light)' srcset='{light_src}' />"
-            f"<img src='{light_src}' alt='{alt_text}' width='{width}' />"
+            f"<img src='{light_src}' alt='{alt_text}' width='{width}'{style_attr} />"
             "</picture>"
         )

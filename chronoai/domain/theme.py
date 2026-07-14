@@ -80,6 +80,7 @@ class Theme:
             "mode": self.mode,
             "banner": self.assets.banner,
             "divider": self.assets.divider,
+            "divider_path": self.assets.divider,  # Alias for backward compatibility
             "status_light": self.assets.status_light,
             "status_dark": self.assets.status_dark,
             "snake_light": self.assets.snake_light,
