@@ -1,16 +1,95 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SAmarjeet05/SAmarjeet05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
 
-Here are some ideas to get you started:
+# Hi there, I'm Amarjeet Singh 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+Final+Year+%7C+Computer+Science+(AIML);Exploring+Machine+Learning+%26+AI+Systems;Building+Projects+that+Solve+Real+Problems)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarjeet-singh-7287ba368)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amarjeetsingh.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amar2005.reet@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=SAmarjeet05&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a final-year **B.Tech Computer Science (AIML)** student who enjoys turning ideas into working software — from machine learning models to full-stack web apps. I like understanding systems deeply before building on top of them, and I'm always looking for the next problem worth solving.
+
+- 🔍 Focus areas: Machine Learning, Web Development, Data-Driven Applications
+- 🤖 Interested in how AI systems are designed, trained, and deployed in the real world
+- 🛠️ I enjoy building end-to-end projects rather than just experimenting in notebooks
+
+🎓 **Education:** B.Tech, Computer Science and Engineering (AIML Specialization) — I.T.S. Engineering College
+
+⚙️ **Current Interests:** Deep Learning & Neural Networks • Natural Language Processing • Full-Stack Development • System Design Fundamentals
+
+🤝 **Open to:** Internships, entry-level SDE/ML roles, and open-source collaboration — feel free to reach out!
+
+---
+
+## 🧠 Tech Stack
+
+**Languages:** Python • C++ • Java • JavaScript • SQL
+
+**AI/ML:** NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • Matplotlib
+
+**Web Development:** HTML • CSS • React • Node.js • Express • Next.js
+
+**Tools & Platforms:** Git • GitHub • VS Code • Jupyter Notebook • Vercel • Postman
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 Project One
+2-3 line description of what this project does, the problem it solves, and how it works, using **Python**, **TensorFlow**, and **Scikit-learn**.
+
+🔗 [View Repo](https://github.com/SAmarjeet05/project-one)
+
+### 🌐 Project Two
+2-3 line description of what this project does, the problem it solves, and how it works, built with **React**, **Node.js**, and **MongoDB**.
+
+🔗 [View Repo](https://github.com/SAmarjeet05/project-two)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAmarjeet05&theme=transparent&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/amarjeet-singh-7287ba368) • [Portfolio](https://amarjeetsingh.vercel.app/) • [Email](mailto:amar2005.reet@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *Always learning, always building.* ✨
+
+<img src="https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/github-contribution-grid-snake.svg" width="100%" />
+
+</div>
