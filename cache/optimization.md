@@ -1,28 +1,41 @@
+<!-- ===================================================== -->
+<!--          ChronoAI Adaptive Profile                    -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-<img src="assets/optimization/banner.svg" width="100%" alt="Amarjeet Singh - AI and Machine Learning Engineer" />
+<img src="assets/optimization/banner.svg" width="100%" alt="Banner"/>
 
 <br/>
 <br/>
 
-<img src="assets/optimization/status.svg" alt="AI System Status" />
+<img src="assets/optimization/status.svg" alt="AI Status" />
 
-# Hi there, I'm Amarjeet Singh 👋
+# Hi there, I'm Amarjeet Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
 
-</div>
+### AI & Machine Learning Engineer • AI Application Developer
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=d08770&center=true&vCenter=true&width=600&lines=Scaling+Intelligence;Continuous+Learning;Optimizing+AI+Systems;Optimizing+Intelligence)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=d08770&center=true&vCenter=true&width=750&lines=Optimizing+AI+Systems;Optimizing+Intelligence;Scaling+Intelligence;Continuous+Learning" alt="Typing SVG"/>
 
 </div>
 
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarjeet-singh-7287ba368)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amarjeetsingh.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amar2005.reet@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=SAmarjeet05&color=blueviolet&style=for-the-badge)
+<a href="https://www.linkedin.com/in/amarjeet-singh-7287ba368">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://amarjeetsingh.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:amar2005.reet@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SAmarjeet05&style=for-the-badge&color=58A6FF"/>
 
 </div>
 
@@ -30,79 +43,236 @@
 
 ## 🚀 About Me
 
-I'm a final-year **B.Tech Computer Science (AIML)** student who enjoys turning ideas into working software — from machine learning models to full-stack web apps. I like understanding systems deeply before building on top of them, and I'm always looking for the next problem worth solving.
+I'm a final-year **Computer Science Engineering (AI & ML)** student passionate about designing intelligent software that solves real-world problems.
 
-- 🔍 Focus areas: Machine Learning, Web Development, Data-Driven Applications
-- 🤖 Interested in how AI systems are designed, trained, and deployed in the real world
-- 🛠️ I enjoy building end-to-end projects rather than just experimenting in notebooks
+My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, and **Full-Stack Development** to build scalable AI-powered applications — from intelligent automation tools to production-ready web platforms.
 
-🎓 **Education:** B.Tech, Computer Science and Engineering (AIML Specialization) — I.T.S. Engineering College
+### Focus Areas
 
-⚙️ **Current Interests:** Deep Learning & Neural Networks • Natural Language Processing • Full-Stack Development • System Design Fundamentals
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Generative AI & Large Language Models
+- 👁️ Computer Vision
+- ⚡ Backend Engineering for AI Applications
+- 🌍 Building End-to-End AI Products
 
-🤝 **Open to:** Internships, entry-level SDE/ML roles, and open-source collaboration — feel free to reach out!
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
+
+### 🎓 Education
+
+**B.Tech – Computer Science Engineering (AI & ML)**
+
+📍 I.T.S Engineering College
+
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
+
+### ⚙️ Currently Exploring
+
+- Large Language Models (LLMs)
+- AI Agents
+- Computer Vision
+- Deep Learning
+
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
+
+### 🤝 Open To
+
+- AI/ML Internships
+- Entry-Level AI Engineer Roles
+- Open Source Contributions
+- Collaborating on AI & Generative AI Projects
 
 <img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
 
 ## 🧠 Tech Stack
 
-**Languages:** Python • C++ • Java • JavaScript • SQL
+### Languages
 
-**AI/ML:** NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • Matplotlib
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,mysql"/>
+</p>
 
-**Web Development:** HTML • CSS • React • Node.js • Express • Next.js
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
 
-**Tools & Platforms:** Git • GitHub • VS Code • Jupyter Notebook • Vercel • Postman
+### AI & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+**Frameworks & Libraries**
+
+TensorFlow • PyTorch • Scikit-learn • Keras • OpenCV • YOLOv8 • LangChain • NLTK • Ollama • Gemini API • Groq API
+
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
+
+### Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
+</p>
+
+FastAPI • Flask • REST APIs • WebSockets
+
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
+
+### Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
+</p>
+
+React • Next.js • TypeScript • Tailwind CSS • ShadCN UI • Leaflet
+
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase"/>
+</p>
+
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
+
+### Developer Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,pycharm,postman"/>
+</p>
+
+Jupyter Notebook • Google Colab
+
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
+
+### Deployment
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vercel,render"/>
+</p>
+
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
+
+### Edge AI
+
+Raspberry Pi • Hailo-8L
 
 <img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
 
 ## 🔥 Featured Projects
 
-### 🤖 Project One
-2-3 line description of what this project does, the problem it solves, and how it works, using **Python**, **TensorFlow**, and **Scikit-learn**.
-
-🔗 [View Repo](https://github.com/SAmarjeet05/project-one)
-
-### 🌐 Project Two
-2-3 line description of what this project does, the problem it solves, and how it works, built with **React**, **Node.js**, and **MongoDB**.
-
-🔗 [View Repo](https://github.com/SAmarjeet05/project-two)
+<p align="center">
+Building intelligent applications that combine AI, Machine Learning, and modern software engineering to solve real-world problems.
+</p>
 
 <img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
 
-## 📊 GitHub Stats
+### 🌸 Otaku Sync Tracker
 
-<div align="center">
+A full-stack anime tracking platform with a browser extension that automatically synchronizes watch progress across supported streaming websites.
 
-<img src="https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAmarjeet05&theme=github_dark&hide_border=true" width="48%" />
+Built with **React**, **FastAPI**, **PostgreSQL**, **Supabase**, **TypeScript**, and the **AniList GraphQL API** to deliver real-time synchronization, personalized recommendations, analytics, and seamless tracking.
 
-</div>
+<p align="left">
+<a href="https://github.com/SAmarjeet05/OtakuSyncTracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=OtakuSyncTracker&theme=transparent&hide_border=true"/>
+</a>
+</p>
+
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
+
+### 🌍 Samadhan — AI Disaster Response System
+
+An AI-powered disaster response platform capable of flood segmentation, earthquake damage assessment, and emergency resource allocation through geospatial intelligence.
+
+Powered by **PyTorch**, **GeoPandas**, **Flask**, **Next.js**, **Docker**, and **PostgreSQL**.
+
+<p align="left">
+<a href="https://github.com/SAmarjeet05/Samadhan--AI-Powered-Disaster-Detection-and-Response-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Samadhan--AI-Powered-Disaster-Detection-and-Response-System&theme=transparent&hide_border=true"/>
+</a>
+</p>
+
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
+
+### 🌦 ClimaSense
+
+A climate intelligence platform providing weather forecasting, anomaly detection, geospatial visualization, and AI-driven climate insights.
+
+Built using **FastAPI**, **React**, **Scikit-Learn**, **Groq API**, **Leaflet**, and **SQLite**.
+
+<p align="left">
+<a href="https://github.com/SAmarjeet05/ClimaSense">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=ClimaSense&theme=transparent&hide_border=true"/>
+</a>
+</p>
+
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
+
+### 🏛 Nirvana — AI Grievance Redressal System
+
+An AI-powered grievance platform supporting text, image, and voice complaints with intelligent routing, WhatsApp integration, and Edge AI deployment.
+
+Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **ElevenLabs**, **Raspberry Pi**, and **Hailo-8L**.
+
+<p align="left">
+<a href="https://github.com/SAmarjeet05/Nirvana">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAmarjeet05&repo=Nirvana&theme=transparent&hide_border=true"/>
+</a>
+</p>
+
+<img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme={{ACTIVITY_GRAPH_THEME}}&hide_border=true"/>
+
+</p>
 
 <img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
 
 ## 📫 Connect With Me
 
-<div align="center">
+<p align="center">
 
-[LinkedIn](https://www.linkedin.com/in/amarjeet-singh-7287ba368) • [Portfolio](https://amarjeetsingh.vercel.app/) • [Email](mailto:amar2005.reet@gmail.com)
+<a href="https://www.linkedin.com/in/amarjeet-singh-7287ba368">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="https://amarjeetsingh.vercel.app/">Portfolio</a>
+&nbsp;•&nbsp;
+<a href="mailto:amar2005.reet@gmail.com">Email</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/SAmarjeet05">GitHub</a>
 
-</div>
+</p>
 
 <img src="assets/optimization/divider.svg" width="100%" alt="Divider" />
 
-<div align="center">
+<p align="center">
 
 ✨ *Refining parameters, reducing loss, scaling output.* ✨
 
-<img src="https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/snake-optimization.svg" width="100%" />
+</p>
 
-</div>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/snake-optimization.svg" width="100%"/>
+
+</p>
 
 
 <!--
 Generated by ChronoAI
 Theme: Optimization
 Theme Version: 1.0
-Generated: 2026-07-14 18:24:18 IST
+Generated: 2026-07-14 18:39:09 IST
 -->
