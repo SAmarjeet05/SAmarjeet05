@@ -61,7 +61,7 @@ def plan_eat_path(
 
     for col_idx, week in enumerate(grid.weeks):
         for row_idx, day in enumerate(week.days):
-            if day.level != "NONE" and day.count > 0:
+            if day.level != "NONE":
                 food_set.add((col_idx, row_idx))
 
     current = start_pos

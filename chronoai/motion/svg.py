@@ -121,7 +121,7 @@ def render_svg(
             orig = _level_to_color(day.level, palette)
             cell_pos = (col_idx, row_idx)
 
-            if day.count > 0 and cell_pos in visit_times:
+            if day.level != "NONE" and cell_pos in visit_times:
                 t_eat = visit_times[cell_pos]
 
                 # Eat keyframe proportions

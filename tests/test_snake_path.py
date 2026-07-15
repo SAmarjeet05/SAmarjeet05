@@ -90,7 +90,7 @@ class TestPlanEatPath:
         visited = set(path)
         for col_idx, week in enumerate(grid.weeks):
             for day in week.days:
-                if day.level != "NONE" and day.count > 0:
+                if day.level != "NONE":
                     pos = (col_idx, int(day.y))
                     assert pos in visited, f"Food cell {pos} was never visited by the snake."
 
