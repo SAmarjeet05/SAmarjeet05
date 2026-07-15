@@ -21,12 +21,17 @@ class AtmosphereResolver:
 
     @staticmethod
     def resolve_mode(now: datetime) -> str:
-        hour = now.hour
+        minutes = now.hour * 60 + now.minute
 
-        if 6 <= hour < 12:
+        # Boundaries in minutes since midnight:
+        # - 06:00 IST = 360 mins
+        # - 11:00 IST = 660 mins
+        # - 17:30 IST = 1050 mins
+        # - 21:30 IST = 1290 mins
+        if 360 <= minutes < 660:
             return "boot"
-        if 12 <= hour < 18:
+        if 660 <= minutes < 1050:
             return "inference"
-        if 18 <= hour < 22:
+        if 1050 <= minutes < 1290:
             return "optimization"
         return "research"

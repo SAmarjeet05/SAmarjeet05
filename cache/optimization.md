@@ -255,13 +255,13 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 # 📊 GitHub Analytics
 
 <div align="center">
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=dark&hide_border=true&rank_icon=github' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github' /><img src='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github' alt='GitHub Stats' width='48%' /></picture>
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=dark&hide_border=true' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=light&hide_border=true' /><img src='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=light&hide_border=true' alt='GitHub Streak' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=dark&hide_border=true&rank_icon=github&bg_color=17120F&title_color=F9F5F0&text_color=D8C8B8&icon_color=F4A261&border_color=5A3C2E' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github&bg_color=FFFDF9&title_color=3B2F2F&text_color=6B5A50&icon_color=D08770&border_color=F3DFC9' /><img src='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github&bg_color=FFFDF9&title_color=3B2F2F&text_color=6B5A50&icon_color=D08770&border_color=F3DFC9' alt='GitHub Stats' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=dark&hide_border=true&background=17120F&border=5A3C2E&stroke=5A3C2E&ring=F4A261&fire=F4A261&currStreakNum=F9F5F0&sideNums=D8C8B8&sideLabels=D8C8B8&currStreakLabel=D8C8B8&dates=D8C8B8' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=light&hide_border=true&background=FFFDF9&border=F3DFC9&stroke=F3DFC9&ring=D08770&fire=D08770&currStreakNum=3B2F2F&sideNums=6B5A50&sideLabels=6B5A50&currStreakLabel=6B5A50&dates=6B5A50' /><img src='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=light&hide_border=true&background=FFFDF9&border=F3DFC9&stroke=F3DFC9&ring=D08770&fire=D08770&currStreakNum=3B2F2F&sideNums=6B5A50&sideLabels=6B5A50&currStreakLabel=6B5A50&dates=6B5A50' alt='GitHub Streak' width='48%' /></picture>
 </div>
 
 <div align="center">
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=dark&hide_border=true' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true' /><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true' alt='Top Languages' width='48%' /></picture>
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=dark&hide_border=true' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true' /><img src='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true' alt='GitHub Activity Graph' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=dark&hide_border=true&bg_color=17120F&title_color=F9F5F0&text_color=D8C8B8&icon_color=F4A261&border_color=5A3C2E' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true&bg_color=FFFDF9&title_color=3B2F2F&text_color=6B5A50&icon_color=D08770&border_color=F3DFC9' /><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true&bg_color=FFFDF9&title_color=3B2F2F&text_color=6B5A50&icon_color=D08770&border_color=F3DFC9' alt='Top Languages' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=dark&hide_border=true&bg_color=17120F&color=D8C8B8&title_color=F9F5F0&line=F4A261&point=F4A261' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true&bg_color=FFFDF9&color=6B5A50&title_color=3B2F2F&line=D08770&point=D08770' /><img src='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true&bg_color=FFFDF9&color=6B5A50&title_color=3B2F2F&line=D08770&point=D08770' alt='GitHub Activity Graph' width='48%' /></picture>
 </div>
 
 <img src="assets/optimization/divider.svg" width="100%" alt="" />
@@ -284,7 +284,7 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 <p align="center">
 
-<i>✨ Every iteration improves intelligence. ✨</i>
+<i>✨ Optimal execution requires constant alignment. ✨</i>
 
 </p>
 
@@ -307,5 +307,5 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 Generated by ChronoAI
 Theme: Optimization
 Theme Version: 2.0
-Generated: 2026-07-15 01:49:35 IST
+Generated: 2026-07-15 18:41:19 IST
 -->

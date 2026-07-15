@@ -40,7 +40,7 @@ class READMEBuilder:
     def get_current_mode(self):
         return AtmosphereResolver.resolve_mode(AtmosphereResolver.local_now(self.config.timezone_name))
 
-    def build(self, force_mode=None, use_cache=False):
+    def build(self, force_mode=None, use_cache=True):
         mode = force_mode if force_mode else self.get_current_mode()
         print(f"Resolving build for mode: '{mode}' (use_cache={use_cache})")
 
@@ -51,7 +51,7 @@ class READMEBuilder:
             if os.path.exists(cache_file):
                 print(f"Cache hit! Copying pre-built cache from {cache_file}")
                 self._write_readme_files_from_source(cache_file)
-                return
+                return True
             else:
                 print(f"Cache miss! Pre-built cache not found at {cache_file}. Proceeding with fresh build.")
 
@@ -63,7 +63,7 @@ class READMEBuilder:
         if previous_digest == digest and os.path.exists(cache_file):
             print(f"Hash unchanged for mode '{mode}'. Reusing cached README content.")
             self._write_readme_files_from_source(cache_file)
-            return
+            return True
         
         # Write files
         self._write_readme_files(readme_content)
@@ -80,6 +80,7 @@ class READMEBuilder:
             print(f"Hash unchanged for mode '{mode}'. Cache content is stable.")
         else:
             print(f"Updated hash cache at {hash_file}")
+        return False
 
     def generate_content(self, mode, shuffle_typing=True):
         theme = self.theme_loader.load(mode)
