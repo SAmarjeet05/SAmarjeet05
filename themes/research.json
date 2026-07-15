@@ -41,5 +41,9 @@
       "icon_color": "C084FC",
       "border_color": "3A2953"
     }
+  },
+  "snake": {
+    "light": "assets/snake/snake-research-light.svg",
+    "dark": "assets/snake/snake-research-dark.svg"
   }
 }

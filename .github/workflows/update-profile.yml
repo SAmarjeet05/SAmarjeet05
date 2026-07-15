@@ -27,6 +27,7 @@ on:
       - "chronoai/**"
       - "themes/**"
       - "assets/**"
+      - "tests/**"
 
 jobs:
   update-profile:
@@ -48,12 +49,16 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Compile and Update Cache (on Push)
+      - name: Compile Cache and Contribution SVGs (on Push)
         if: github.event_name == 'push'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python generate_readme.py --build-cache
 
-      - name: Debug Current Mode
+      - name: Generate README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.use_cache }}" = "false" ]; then
             python generate_readme.py --debug --no-cache

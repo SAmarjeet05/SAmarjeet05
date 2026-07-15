@@ -46,7 +46,7 @@
   },
 
   "snake": {
-    "light": "https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/github-contribution-grid-snake.svg",
-    "dark": "https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/github-contribution-grid-snake-dark.svg"
+    "light": "assets/snake/snake-boot-light.svg",
+    "dark": "assets/snake/snake-boot-dark.svg"
   }
 }

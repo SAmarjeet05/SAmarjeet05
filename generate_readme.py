@@ -44,6 +44,11 @@ def main():
         help="Compile and update cache and preview files for all modes"
     )
     parser.add_argument(
+        "--build-contribution",
+        action="store_true",
+        help="Compile and generate contribution snake SVGs for all atmospheres"
+    )
+    parser.add_argument(
         "--use-cache", 
         action="store_true", 
         help="Use cached README copy if available (now default, use --no-cache to disable)"
@@ -92,6 +97,15 @@ def main():
     
     if args.build_cache:
         builder.build_all_caches()
+        print("Compiling ChronoMotion Engine SVGs for all operational modes...")
+        from chronoai.motion.renderer import ChronoMotionRenderer
+        token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+        ChronoMotionRenderer.render_all_atmospheres(username=builder.config.username, token=token)
+    elif args.build_contribution:
+        print("Compiling ChronoMotion Engine SVGs for all operational modes...")
+        from chronoai.motion.renderer import ChronoMotionRenderer
+        token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+        ChronoMotionRenderer.render_all_atmospheres(username=builder.config.username, token=token)
     else:
         cache_used = builder.build(force_mode=resolved_mode, use_cache=use_cache)
         if args.debug:

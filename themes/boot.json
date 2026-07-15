@@ -39,5 +39,9 @@
       "icon_color": "8FB3D4",
       "border_color": "2B3542"
     }
+  },
+  "snake": {
+    "light": "assets/snake/snake-boot-light.svg",
+    "dark": "assets/snake/snake-boot-dark.svg"
   }
 }
