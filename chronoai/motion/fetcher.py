@@ -49,8 +49,18 @@ def _generate_mock_calendar() -> dict[str, Any]:
 
 def fetch_contribution_calendar(username: str, token: str | None = None) -> dict[str, Any]:
     """Fetches raw contribution grid from GitHub GraphQL API with local mock fallback."""
+    debug_info = []
+    debug_info.append(f"Timestamp: {datetime.datetime.now().isoformat()}")
+    debug_info.append(f"Token present: {bool(token)}")
+    if token:
+        debug_info.append(f"Token length: {len(token)}")
+        debug_info.append(f"Token prefix: {token[:10]}...")
+
     if not token:
         print("[ChronoMotion Fetcher] No GITHUB_TOKEN. Using mock contribution data...")
+        debug_info.append("Mode: Mock Fallback (No Token)")
+        with open("cache/fetcher_debug.txt", "w", encoding="utf-8") as f:
+            f.write("\n".join(debug_info))
         return _generate_mock_calendar()
 
     query = """
@@ -99,7 +109,16 @@ def fetch_contribution_calendar(username: str, token: str | None = None) -> dict
             if not user_data:
                 raise RuntimeError(f"User '{username}' not found.")
             
-            return user_data["contributionsCollection"]["contributionCalendar"]
+            calendar = user_data["contributionsCollection"]["contributionCalendar"]
+            debug_info.append("Mode: Real GraphQL API")
+            debug_info.append(f"API totalContributions: {calendar.get('totalContributions')}")
+            debug_info.append(f"API weeks count: {len(calendar.get('weeks', []))}")
+            with open("cache/fetcher_debug.txt", "w", encoding="utf-8") as f:
+                f.write("\n".join(debug_info))
+            return calendar
     except Exception as exc:
         print(f"[ChronoMotion Fetcher] Fetch failed: {exc}. Falling back to mock data...")
+        debug_info.append(f"Mode: Mock Fallback (API Error: {exc})")
+        with open("cache/fetcher_debug.txt", "w", encoding="utf-8") as f:
+            f.write("\n".join(debug_info))
         return _generate_mock_calendar()
