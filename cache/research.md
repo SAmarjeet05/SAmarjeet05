@@ -15,7 +15,7 @@
 
 ### AI & Machine Learning Engineer • AI Application Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=b48ead&center=true&vCenter=true&width=750&lines=Exploring+Large+Language+Models;Deep+Learning;AI+Agents;Research+Never+Sleeps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=b48ead&center=true&vCenter=true&width=750&lines=Research+Never+Sleeps;AI+Agents;Deep+Learning;Exploring+Large+Language+Models)](https://git.io/typing-svg)
 
 </div>
 
@@ -255,13 +255,13 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 # 📊 GitHub Analytics
 
 <div align="center">
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=dark&hide_border=true&rank_icon=github' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github' /><img src='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github' alt='GitHub Stats' width='48%' /></picture>
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=dark&hide_border=true' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=light&hide_border=true' /><img src='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=light&hide_border=true' alt='GitHub Streak' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=dark&hide_border=true&rank_icon=github&bg_color=09060F&title_color=F3F0FF&text_color=B8AEC7&icon_color=C084FC&border_color=3A2953' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github&bg_color=FCFBFE&title_color=2E1A47&text_color=5B5061&icon_color=A855F7&border_color=E8DDF5' /><img src='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github&bg_color=FCFBFE&title_color=2E1A47&text_color=5B5061&icon_color=A855F7&border_color=E8DDF5' alt='GitHub Stats' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=dark&hide_border=true&background=09060F&border=3A2953&stroke=3A2953&ring=C084FC&fire=C084FC&currStreakNum=F3F0FF&sideNums=B8AEC7&sideLabels=B8AEC7&currStreakLabel=B8AEC7&dates=B8AEC7' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=light&hide_border=true&background=FCFBFE&border=E8DDF5&stroke=E8DDF5&ring=A855F7&fire=A855F7&currStreakNum=2E1A47&sideNums=5B5061&sideLabels=5B5061&currStreakLabel=5B5061&dates=5B5061' /><img src='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=light&hide_border=true&background=FCFBFE&border=E8DDF5&stroke=E8DDF5&ring=A855F7&fire=A855F7&currStreakNum=2E1A47&sideNums=5B5061&sideLabels=5B5061&currStreakLabel=5B5061&dates=5B5061' alt='GitHub Streak' width='48%' /></picture>
 </div>
 
 <div align="center">
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=dark&hide_border=true' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true' /><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true' alt='Top Languages' width='48%' /></picture>
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=dark&hide_border=true' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true' /><img src='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true' alt='GitHub Activity Graph' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=dark&hide_border=true&bg_color=09060F&title_color=F3F0FF&text_color=B8AEC7&icon_color=C084FC&border_color=3A2953' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true&bg_color=FCFBFE&title_color=2E1A47&text_color=5B5061&icon_color=A855F7&border_color=E8DDF5' /><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true&bg_color=FCFBFE&title_color=2E1A47&text_color=5B5061&icon_color=A855F7&border_color=E8DDF5' alt='Top Languages' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=dark&hide_border=true&bg_color=09060F&color=B8AEC7&title_color=F3F0FF&line=C084FC&point=C084FC' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true&bg_color=FCFBFE&color=5B5061&title_color=2E1A47&line=A855F7&point=A855F7' /><img src='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true&bg_color=FCFBFE&color=5B5061&title_color=2E1A47&line=A855F7&point=A855F7' alt='GitHub Activity Graph' width='48%' /></picture>
 </div>
 
 <img src="assets/research/divider.svg" width="100%" alt="" />
@@ -284,7 +284,7 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 <p align="center">
 
-<i>✨ Hypothesizing, experimenting, expanding the bounds. ✨</i>
+<i>✨ Curiosity doesn't have office hours. ✨</i>
 
 </p>
 
@@ -307,5 +307,5 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 Generated by ChronoAI
 Theme: Research
 Theme Version: 2.0
-Generated: 2026-07-15 01:49:35 IST
+Generated: 2026-07-15 18:50:26 IST
 -->
