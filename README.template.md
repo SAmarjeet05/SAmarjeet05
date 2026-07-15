@@ -255,12 +255,7 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 # 📊 GitHub Analytics
 
 <div align="center">
-{{GITHUB_STATS}}
 {{STREAK}}
-</div>
-
-<div align="center">
-{{LANGUAGES}}
 {{GRAPH}}
 </div>
 
