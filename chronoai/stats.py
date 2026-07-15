@@ -83,11 +83,11 @@ class StatsManager:
             ),
             # GitHub Streak - build both light and dark
             "streak_light": (
-                "https://github-readme-streak-stats.herokuapp.com?"
+                "https://streak-stats.demolab.com?"
                 f"user={username}&theme={light_theme}&hide_border=true{light_streak_query}"
             ),
             "streak_dark": (
-                "https://github-readme-streak-stats.herokuapp.com?"
+                "https://streak-stats.demolab.com?"
                 f"user={username}&theme={dark_theme}&hide_border=true{dark_streak_query}"
             ),
             # Languages - build both light and dark

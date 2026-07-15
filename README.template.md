@@ -296,8 +296,4 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 </p>
 
-<img src="{{DIVIDER_PATH}}" width="100%" alt="" />
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/{{SNAKE_SVG}}" width="100%" />
-</p>

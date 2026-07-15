@@ -9,13 +9,13 @@
 <br/>
 <br/>
 
-<picture><source media='(prefers-color-scheme: dark)' srcset='assets/inference/status-dark.svg' /><source media='(prefers-color-scheme: light)' srcset='assets/inference/status-light.svg' /><img src='assets/inference/status-light.svg' alt='AI System Status' width='280px' style='display: block; margin: 0 auto;' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='assets/inference/status-dark.svg' /><img src='assets/inference/status-light.svg' alt='AI System Status' width='280px' style='display: block; margin: 0 auto;' /></picture>
 
 # Hi there, I'm Amarjeet Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
 
 ### AI & Machine Learning Engineer • AI Application Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00f2fe&center=true&vCenter=true&width=750&lines=End-to-End+AI+Products;Solving+Real-World+Problems;Transforming+Ideas+into+AI+Products;Designing+AI+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00f2fe&center=true&vCenter=true&width=750&lines=Designing+AI+Applications;End-to-End+AI+Products;Transforming+Ideas+into+AI+Products;Solving+Real-World+Problems)](https://git.io/typing-svg)
 
 </div>
 
@@ -255,13 +255,13 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 # 📊 GitHub Analytics
 
 <div align="center">
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=dark&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=F8FAFC&text_color=CBD5E1&icon_color=00F2FE&border_color=18455A' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github&bg_color=FFFFFF&title_color=0F172A&text_color=334155&icon_color=00D2FF&border_color=CDEFFA' /><img src='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github&bg_color=FFFFFF&title_color=0F172A&text_color=334155&icon_color=00D2FF&border_color=CDEFFA' alt='GitHub Stats' width='48%' /></picture>
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=dark&hide_border=true&background=0D1117&border=18455A&stroke=18455A&ring=00F2FE&fire=00F2FE&currStreakNum=F8FAFC&sideNums=CBD5E1&sideLabels=CBD5E1&currStreakLabel=CBD5E1&dates=CBD5E1' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=light&hide_border=true&background=FFFFFF&border=CDEFFA&stroke=CDEFFA&ring=00D2FF&fire=00D2FF&currStreakNum=0F172A&sideNums=334155&sideLabels=334155&currStreakLabel=334155&dates=334155' /><img src='https://github-readme-streak-stats.herokuapp.com?user=SAmarjeet05&theme=light&hide_border=true&background=FFFFFF&border=CDEFFA&stroke=CDEFFA&ring=00D2FF&fire=00D2FF&currStreakNum=0F172A&sideNums=334155&sideLabels=334155&currStreakLabel=334155&dates=334155' alt='GitHub Streak' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=dark&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=F8FAFC&text_color=CBD5E1&icon_color=00F2FE&border_color=18455A' /><img src='https://github-readme-stats.vercel.app/api?username=SAmarjeet05&show_icons=true&theme=light&hide_border=true&rank_icon=github&bg_color=FFFFFF&title_color=0F172A&text_color=334155&icon_color=00D2FF&border_color=CDEFFA' alt='GitHub Stats' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://streak-stats.demolab.com?user=SAmarjeet05&theme=dark&hide_border=true&background=0D1117&border=18455A&stroke=18455A&ring=00F2FE&fire=00F2FE&currStreakNum=F8FAFC&sideNums=CBD5E1&sideLabels=CBD5E1&currStreakLabel=CBD5E1&dates=CBD5E1' /><img src='https://streak-stats.demolab.com?user=SAmarjeet05&theme=light&hide_border=true&background=FFFFFF&border=CDEFFA&stroke=CDEFFA&ring=00D2FF&fire=00D2FF&currStreakNum=0F172A&sideNums=334155&sideLabels=334155&currStreakLabel=334155&dates=334155' alt='GitHub Streak' width='48%' /></picture>
 </div>
 
 <div align="center">
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=CBD5E1&icon_color=00F2FE&border_color=18455A' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=334155&icon_color=00D2FF&border_color=CDEFFA' /><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=334155&icon_color=00D2FF&border_color=CDEFFA' alt='Top Languages' width='48%' /></picture>
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=dark&hide_border=true&bg_color=0D1117&color=CBD5E1&title_color=F8FAFC&line=00F2FE&point=00F2FE' /><source media='(prefers-color-scheme: light)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true&bg_color=FFFFFF&color=334155&title_color=0F172A&line=00D2FF&point=00D2FF' /><img src='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true&bg_color=FFFFFF&color=334155&title_color=0F172A&line=00D2FF&point=00D2FF' alt='GitHub Activity Graph' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=CBD5E1&icon_color=00F2FE&border_color=18455A' /><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SAmarjeet05&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=334155&icon_color=00D2FF&border_color=CDEFFA' alt='Top Languages' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=dark&hide_border=true&bg_color=0D1117&color=CBD5E1&title_color=F8FAFC&line=00F2FE&point=00F2FE' /><img src='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true&bg_color=FFFFFF&color=334155&title_color=0F172A&line=00D2FF&point=00D2FF' alt='GitHub Activity Graph' width='48%' /></picture>
 </div>
 
 <img src="assets/inference/divider.svg" width="100%" alt="" />
@@ -292,20 +292,16 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 <p align="center">
 
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/github-contribution-grid-snake-dark.svg' /><source media='(prefers-color-scheme: light)' srcset='https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/github-contribution-grid-snake.svg' /><img src='https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/github-contribution-grid-snake.svg' alt='Snake animation' width='100%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/github-contribution-grid-snake-dark.svg' /><img src='https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/github-contribution-grid-snake.svg' alt='Snake animation' width='100%' /></picture>
 
 </p>
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/SAmarjeet05/SAmarjeet05/output/{{SNAKE_SVG}}" width="100%" />
-</p>
 
 
 <!--
 Generated by ChronoAI
 Theme: Inference
 Theme Version: 2.0
-Generated: 2026-07-15 18:50:26 IST
+Generated: 2026-07-15 18:57:15 IST
 -->

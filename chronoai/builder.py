@@ -224,7 +224,6 @@ class READMEBuilder:
         return (
             "<picture>"
             f"<source media='(prefers-color-scheme: dark)' srcset='{dark_src}' />"
-            f"<source media='(prefers-color-scheme: light)' srcset='{light_src}' />"
             f"<img src='{light_src}' alt='{alt_text}' width='{width}'{style_attr} />"
             "</picture>"
         )
