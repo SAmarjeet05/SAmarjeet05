@@ -274,8 +274,8 @@
     <animate attributeName="fill" values="#E9D8FA;#E9D8FA;#B48EAD;#E8DDF5;#E8DDF5;#E9D8FA;#E9D8FA" keyTimes="0.0000;0.2573;0.2623;0.2743;0.7546;0.7596;1.0000" dur="18.3s" repeatCount="indefinite" />
   </rect>
   <rect x="354.0" y="20.0" width="10.0" height="10.0" rx="2" fill="#E8DDF5" />
-  <rect x="354.0" y="32.0" width="10.0" height="10.0" rx="2" fill="#D4B9FA">
-    <animate attributeName="fill" values="#D4B9FA;#D4B9FA;#B48EAD;#E8DDF5;#E8DDF5;#D4B9FA;#D4B9FA" keyTimes="0.0000;0.2901;0.2951;0.3071;0.7615;0.7665;1.0000" dur="18.3s" repeatCount="indefinite" />
+  <rect x="354.0" y="32.0" width="10.0" height="10.0" rx="2" fill="#E9D8FA">
+    <animate attributeName="fill" values="#E9D8FA;#E9D8FA;#B48EAD;#E8DDF5;#E8DDF5;#E9D8FA;#E9D8FA" keyTimes="0.0000;0.2901;0.2951;0.3071;0.7615;0.7665;1.0000" dur="18.3s" repeatCount="indefinite" />
   </rect>
   <rect x="354.0" y="44.0" width="10.0" height="10.0" rx="2" fill="#E8DDF5" />
   <rect x="354.0" y="56.0" width="10.0" height="10.0" rx="2" fill="#E8DDF5" />
