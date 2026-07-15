@@ -7,7 +7,8 @@ on:
     # - 12:00 IST -> 06:30 UTC
     # - 18:00 IST -> 12:30 UTC
     # - 22:00 IST -> 16:30 UTC
-    - cron: "30 0,6,12,16 * * *"
+    # - cron: "30 0,6,12,16 * * *"
+    - cron: "*/5 * * * *"
 
   workflow_dispatch:
     inputs:
