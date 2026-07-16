@@ -514,6 +514,7 @@
   <rect x="654.0" y="56.0" width="10.0" height="10.0" rx="2" fill="#A855F7">
     <animate attributeName="fill" values="#A855F7;#A855F7;#B48EAD;#E8DDF5;#E8DDF5;#A855F7;#A855F7" keyTimes="0.0000;0.4517;0.4567;0.4687;0.9421;0.9471;1.0000" dur="20.8s" repeatCount="indefinite" />
   </rect>
+  <rect x="654.0" y="68.0" width="10.0" height="10.0" rx="2" fill="#E8DDF5" />
   <text x="535" y="125" class="legend-text" text-anchor="end">Less</text>
   <rect x="565" y="117" width="10" height="10" rx="1.5" fill="#E8DDF5" />
   <rect x="577" y="117" width="10" height="10" rx="1.5" fill="#E9D8FA" />
