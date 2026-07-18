@@ -4,22 +4,22 @@
 
 <div align="center">
 
-<img src="assets/inference/banner.svg" width="100%" alt="Amarjeet Singh — AI and Machine Learning Engineer" />
+<img src="assets/optimization/banner.svg" width="100%" alt="Amarjeet Singh — AI and Machine Learning Engineer" />
 
 <br/>
 <br/>
 
-<picture><source media='(prefers-color-scheme: dark)' srcset='assets/inference/status-dark.svg' /><img src='assets/inference/status-light.svg' alt='AI System Status' width='280px' style='display: block; margin: 0 auto;' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='assets/optimization/status-dark.svg' /><img src='assets/optimization/status-light.svg' alt='AI System Status' width='280px' style='display: block; margin: 0 auto;' /></picture>
 
 # Hi there, I'm Amarjeet Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
 
 ### AI & Machine Learning Engineer • AI Application Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00f2fe&center=true&vCenter=true&width=750&lines=Designing+AI+Applications;End-to-End+AI+Products;Transforming+Ideas+into+AI+Products;Solving+Real-World+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=d08770&center=true&vCenter=true&width=750&lines=Optimizing+AI+Systems;Optimizing+Intelligence;Continuous+Learning;Scaling+Intelligence)](https://git.io/typing-svg)
 
 </div>
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 </div>
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 
 
@@ -54,7 +54,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 - ⚡ Backend Engineering for AI Applications
 - 🌍 Building End-to-End AI Products
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 ### 🎓 Education
 
@@ -62,7 +62,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 
 📍 I.T.S Engineering College
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 ### ⚙️ Currently Exploring
 
@@ -71,7 +71,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 - Computer Vision
 - Deep Learning
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 ### 🤝 Open To
 
@@ -80,7 +80,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 - Open Source Contributions
 - Collaborating on AI & Generative AI Projects
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 # 🧠 Tech Stack
 
@@ -90,7 +90,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,mysql"/>
 </p>
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 ## AI & Machine Learning
 
@@ -102,7 +102,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 
 TensorFlow • PyTorch • Scikit-learn • Keras • OpenCV • YOLOv8 • LangChain • NLTK • Ollama • Gemini API • Groq API
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 ## Backend Development
 
@@ -112,7 +112,7 @@ TensorFlow • PyTorch • Scikit-learn • Keras • OpenCV • YOLOv8 • Lang
 
 FastAPI • Flask • REST APIs • WebSockets
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 ## Frontend Development
 
@@ -122,7 +122,7 @@ FastAPI • Flask • REST APIs • WebSockets
 
 React • Next.js • TypeScript • Tailwind CSS • ShadCN UI • Leaflet
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 ## Databases
 
@@ -130,7 +130,7 @@ React • Next.js • TypeScript • Tailwind CSS • ShadCN UI • Leaflet
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase"/>
 </p>
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 ## Developer Tools
 
@@ -140,7 +140,7 @@ React • Next.js • TypeScript • Tailwind CSS • ShadCN UI • Leaflet
 
 Jupyter Notebook • Google Colab
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 ## Deployment
 
@@ -148,13 +148,13 @@ Jupyter Notebook • Google Colab
 <img src="https://skillicons.dev/icons?i=vercel,render"/>
 </p>
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 ## Edge AI
 
 Raspberry Pi • Hailo-8L
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 # 🔥 Featured Projects
 
@@ -162,7 +162,7 @@ Raspberry Pi • Hailo-8L
 Building intelligent applications that combine AI, Machine Learning, and modern software engineering to solve real-world problems.
 </p>
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 ## 🌸 Otaku Sync Tracker
 
@@ -184,7 +184,7 @@ Built with **React**, **FastAPI**, **PostgreSQL**, **Supabase**, **TypeScript**,
 </a>
 </div>
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 ## 🌍 Samadhan — AI Disaster Response System
 
@@ -206,7 +206,7 @@ Powered by **PyTorch**, **GeoPandas**, **Flask**, **Next.js**, **Docker**, and *
 </a>
 </div>
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 ## 🌦 ClimaSense
 
@@ -228,7 +228,7 @@ Built using **FastAPI**, **React**, **Scikit-Learn**, **Groq API**, **Leaflet**,
 </a>
 </div>
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 ## 🏛 Nirvana — AI Grievance Redressal System
 
@@ -250,16 +250,16 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 </a>
 </div>
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 # 📊 GitHub Analytics
 
 <div align="center">
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://streak-stats.demolab.com?user=SAmarjeet05&theme=dark&hide_border=true&background=0D1117&border=18455A&stroke=18455A&ring=00F2FE&fire=00F2FE&currStreakNum=F8FAFC&sideNums=CBD5E1&sideLabels=CBD5E1&currStreakLabel=CBD5E1&dates=CBD5E1' /><img src='https://streak-stats.demolab.com?user=SAmarjeet05&theme=light&hide_border=true&background=FFFFFF&border=CDEFFA&stroke=CDEFFA&ring=00D2FF&fire=00D2FF&currStreakNum=0F172A&sideNums=334155&sideLabels=334155&currStreakLabel=334155&dates=334155' alt='GitHub Streak' width='48%' /></picture>
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=dark&hide_border=true&bg_color=0D1117&color=CBD5E1&title_color=F8FAFC&line=00F2FE&point=00F2FE' /><img src='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true&bg_color=FFFFFF&color=334155&title_color=0F172A&line=00D2FF&point=00D2FF' alt='GitHub Activity Graph' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://streak-stats.demolab.com?user=SAmarjeet05&theme=dark&hide_border=true&background=17120F&border=5A3C2E&stroke=5A3C2E&ring=F4A261&fire=F4A261&currStreakNum=F9F5F0&sideNums=D8C8B8&sideLabels=D8C8B8&currStreakLabel=D8C8B8&dates=D8C8B8' /><img src='https://streak-stats.demolab.com?user=SAmarjeet05&theme=light&hide_border=true&background=FFFDF9&border=F3DFC9&stroke=F3DFC9&ring=D08770&fire=D08770&currStreakNum=3B2F2F&sideNums=6B5A50&sideLabels=6B5A50&currStreakLabel=6B5A50&dates=6B5A50' alt='GitHub Streak' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=dark&hide_border=true&bg_color=17120F&color=D8C8B8&title_color=F9F5F0&line=F4A261&point=F4A261' /><img src='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true&bg_color=FFFDF9&color=6B5A50&title_color=3B2F2F&line=D08770&point=D08770' alt='GitHub Activity Graph' width='48%' /></picture>
 </div>
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 # 📫 Connect With Me
 
@@ -275,19 +275,19 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 </p>
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 <p align="center">
 
-<i>✨ Running inference on real-world challenges. ✨</i>
+<i>✨ Optimal execution requires constant alignment. ✨</i>
 
 </p>
 
-<img src="assets/inference/divider.svg" width="100%" alt="" />
+<img src="assets/optimization/divider.svg" width="100%" alt="" />
 
 <p align="center">
 
-<picture><source media='(prefers-color-scheme: dark)' srcset='assets/snake/snake-inference-dark.svg' /><img src='assets/snake/snake-inference-light.svg' alt='Snake animation' width='100%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='assets/snake/snake-optimization-dark.svg' /><img src='assets/snake/snake-optimization-light.svg' alt='Snake animation' width='100%' /></picture>
 
 </p>
 
@@ -296,7 +296,7 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 <!--
 Generated by ChronoAI
-Theme: Inference
+Theme: Optimization
 Theme Version: 2.0
-Generated: 2026-07-18 12:43:53 IST
+Generated: 2026-07-18 18:42:30 IST
 -->
