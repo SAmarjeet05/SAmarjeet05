@@ -520,6 +520,7 @@
   <rect x="654.0" y="80.0" width="10.0" height="10.0" rx="2" fill="#4A2878">
     <animate attributeName="fill" values="#4A2878;#4A2878;#B48EAD;#0A0009;#0A0009;#4A2878;#4A2878" keyTimes="0.0000;0.4664;0.4714;0.4834;0.9426;0.9476;1.0000" dur="21.0s" repeatCount="indefinite" />
   </rect>
+  <rect x="654.0" y="92.0" width="10.0" height="10.0" rx="2" fill="#0A0009" />
   <text x="535" y="125" class="legend-text" text-anchor="end">Less</text>
   <rect x="565" y="117" width="10" height="10" rx="1.5" fill="#0A0009" />
   <rect x="577" y="117" width="10" height="10" rx="1.5" fill="#2D1B4A" />
