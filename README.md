@@ -4,22 +4,22 @@
 
 <div align="center">
 
-<img src="assets/research/banner.svg" width="100%" alt="Amarjeet Singh — AI and Machine Learning Engineer" />
+<img src="assets/boot/banner.svg" width="100%" alt="Amarjeet Singh — AI and Machine Learning Engineer" />
 
 <br/>
 <br/>
 
-<picture><source media='(prefers-color-scheme: dark)' srcset='assets/research/status-dark.svg' /><img src='assets/research/status-light.svg' alt='AI System Status' width='280px' style='display: block; margin: 0 auto;' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='assets/boot/status-dark.svg' /><img src='assets/boot/status-light.svg' alt='AI System Status' width='280px' style='display: block; margin: 0 auto;' /></picture>
 
 # Hi there, I'm Amarjeet Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
 
 ### AI & Machine Learning Engineer • AI Application Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=b48ead&center=true&vCenter=true&width=750&lines=Exploring+Large+Language+Models;AI+Agents;Deep+Learning;Research+Never+Sleeps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=5E81AC&center=true&vCenter=true&width=750&lines=Computer+Vision;Machine+Learning;Building+Intelligent+Applications)](https://git.io/typing-svg)
 
 </div>
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 </div>
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 
 
@@ -54,7 +54,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 - ⚡ Backend Engineering for AI Applications
 - 🌍 Building End-to-End AI Products
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 ### 🎓 Education
 
@@ -62,7 +62,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 
 📍 I.T.S Engineering College
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 ### ⚙️ Currently Exploring
 
@@ -71,7 +71,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 - Computer Vision
 - Deep Learning
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 ### 🤝 Open To
 
@@ -80,7 +80,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 - Open Source Contributions
 - Collaborating on AI & Generative AI Projects
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 # 🧠 Tech Stack
 
@@ -90,7 +90,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,mysql"/>
 </p>
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 ## AI & Machine Learning
 
@@ -102,7 +102,7 @@ My work combines **Machine Learning**, **Computer Vision**, **Generative AI**, a
 
 TensorFlow • PyTorch • Scikit-learn • Keras • OpenCV • YOLOv8 • LangChain • NLTK • Ollama • Gemini API • Groq API
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 ## Backend Development
 
@@ -112,7 +112,7 @@ TensorFlow • PyTorch • Scikit-learn • Keras • OpenCV • YOLOv8 • Lang
 
 FastAPI • Flask • REST APIs • WebSockets
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 ## Frontend Development
 
@@ -122,7 +122,7 @@ FastAPI • Flask • REST APIs • WebSockets
 
 React • Next.js • TypeScript • Tailwind CSS • ShadCN UI • Leaflet
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 ## Databases
 
@@ -130,7 +130,7 @@ React • Next.js • TypeScript • Tailwind CSS • ShadCN UI • Leaflet
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase"/>
 </p>
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 ## Developer Tools
 
@@ -140,7 +140,7 @@ React • Next.js • TypeScript • Tailwind CSS • ShadCN UI • Leaflet
 
 Jupyter Notebook • Google Colab
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 ## Deployment
 
@@ -148,13 +148,13 @@ Jupyter Notebook • Google Colab
 <img src="https://skillicons.dev/icons?i=vercel,render"/>
 </p>
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 ## Edge AI
 
 Raspberry Pi • Hailo-8L
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 # 🔥 Featured Projects
 
@@ -162,7 +162,7 @@ Raspberry Pi • Hailo-8L
 Building intelligent applications that combine AI, Machine Learning, and modern software engineering to solve real-world problems.
 </p>
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 ## 🌸 Otaku Sync Tracker
 
@@ -184,7 +184,7 @@ Built with **React**, **FastAPI**, **PostgreSQL**, **Supabase**, **TypeScript**,
 </a>
 </div>
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 ## 🌍 Samadhan — AI Disaster Response System
 
@@ -206,7 +206,7 @@ Powered by **PyTorch**, **GeoPandas**, **Flask**, **Next.js**, **Docker**, and *
 </a>
 </div>
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 ## 🌦 ClimaSense
 
@@ -228,7 +228,7 @@ Built using **FastAPI**, **React**, **Scikit-Learn**, **Groq API**, **Leaflet**,
 </a>
 </div>
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 ## 🏛 Nirvana — AI Grievance Redressal System
 
@@ -250,16 +250,16 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 </a>
 </div>
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 # 📊 GitHub Analytics
 
 <div align="center">
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://streak-stats.demolab.com?user=SAmarjeet05&theme=dark&hide_border=true&background=09060F&border=3A2953&stroke=3A2953&ring=C084FC&fire=C084FC&currStreakNum=F3F0FF&sideNums=B8AEC7&sideLabels=B8AEC7&currStreakLabel=B8AEC7&dates=B8AEC7' /><img src='https://streak-stats.demolab.com?user=SAmarjeet05&theme=light&hide_border=true&background=FCFBFE&border=E8DDF5&stroke=E8DDF5&ring=A855F7&fire=A855F7&currStreakNum=2E1A47&sideNums=5B5061&sideLabels=5B5061&currStreakLabel=5B5061&dates=5B5061' alt='GitHub Streak' width='48%' /></picture>
-<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=dark&hide_border=true&bg_color=09060F&color=B8AEC7&title_color=F3F0FF&line=C084FC&point=C084FC' /><img src='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true&bg_color=FCFBFE&color=5B5061&title_color=2E1A47&line=A855F7&point=A855F7' alt='GitHub Activity Graph' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://streak-stats.demolab.com?user=SAmarjeet05&theme=dark&hide_border=true&background=0D1117&border=2B3542&stroke=2B3542&ring=8FB3D4&fire=8FB3D4&currStreakNum=F8FAFC&sideNums=CBD5E1&sideLabels=CBD5E1&currStreakLabel=CBD5E1&dates=CBD5E1' /><img src='https://streak-stats.demolab.com?user=SAmarjeet05&theme=light&hide_border=true&background=FFFFFF&border=E2ECF4&stroke=E2ECF4&ring=5E81AC&fire=5E81AC&currStreakNum=1E293B&sideNums=475569&sideLabels=475569&currStreakLabel=475569&dates=475569' alt='GitHub Streak' width='48%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=dark&hide_border=true&bg_color=0D1117&color=CBD5E1&title_color=F8FAFC&line=8FB3D4&point=8FB3D4' /><img src='https://github-readme-activity-graph.vercel.app/graph?username=SAmarjeet05&theme=light&hide_border=true&bg_color=FFFFFF&color=475569&title_color=1E293B&line=5E81AC&point=5E81AC' alt='GitHub Activity Graph' width='48%' /></picture>
 </div>
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 # 📫 Connect With Me
 
@@ -275,19 +275,19 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 </p>
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 <p align="center">
 
-<i>✨ Hypothesizing, experimenting, expanding the bounds. ✨</i>
+<i>✨ Every breakthrough begins with a fresh start. ✨</i>
 
 </p>
 
-<img src="assets/research/divider.svg" width="100%" alt="" />
+<img src="assets/boot/divider.svg" width="100%" alt="" />
 
 <p align="center">
 
-<picture><source media='(prefers-color-scheme: dark)' srcset='assets/snake/snake-research-dark.svg' /><img src='assets/snake/snake-research-light.svg' alt='Snake animation' width='100%' /></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='assets/snake/snake-boot-dark.svg' /><img src='assets/snake/snake-boot-light.svg' alt='Snake animation' width='100%' /></picture>
 
 </p>
 
@@ -296,7 +296,7 @@ Built with **Flask**, **Next.js**, **YOLOv8**, **Gemini API**, **Supabase**, **E
 
 <!--
 Generated by ChronoAI
-Theme: Research
+Theme: Boot
 Theme Version: 2.0
-Generated: 2026-07-23 22:52:01 IST
+Generated: 2026-07-24 09:22:14 IST
 -->
