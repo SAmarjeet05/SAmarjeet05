@@ -537,8 +537,8 @@
   <rect x="654.0" y="20.0" width="10.0" height="10.0" rx="2" fill="#B08A3A">
     <animate attributeName="fill" values="#B08A3A;#B08A3A;#D08770;#0D0A18;#0D0A18;#B08A3A;#B08A3A" keyTimes="0.0000;0.4859;0.4909;0.5029;0.9450;0.9500;1.0000" dur="17.6s" repeatCount="indefinite" />
   </rect>
-  <rect x="654.0" y="32.0" width="10.0" height="10.0" rx="2" fill="#7A6230">
-    <animate attributeName="fill" values="#7A6230;#7A6230;#D08770;#0D0A18;#0D0A18;#7A6230;#7A6230" keyTimes="0.0000;0.4905;0.4955;0.5075;0.9450;0.9500;1.0000" dur="17.6s" repeatCount="indefinite" />
+  <rect x="654.0" y="32.0" width="10.0" height="10.0" rx="2" fill="#B08A3A">
+    <animate attributeName="fill" values="#B08A3A;#B08A3A;#D08770;#0D0A18;#0D0A18;#B08A3A;#B08A3A" keyTimes="0.0000;0.4905;0.4955;0.5075;0.9450;0.9500;1.0000" dur="17.6s" repeatCount="indefinite" />
   </rect>
   <text x="535" y="125" class="legend-text" text-anchor="end">Less</text>
   <rect x="565" y="117" width="10" height="10" rx="1.5" fill="#0D0A18" />
